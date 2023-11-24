@@ -1,4 +1,5 @@
 import sys
+import time
 
 def read_matrix_from_file(file_path):
     with open(file_path, 'r') as file:
@@ -34,24 +35,25 @@ def tsp_branch_and_bound(graph):
     best_path = []
     min_cost = sys.maxsize
 
+    start_time = time.time()  # Record the start time
+
     branch_and_bound_rec([start_node], calculate_lower_bound([start_node]))
 
-    return best_path, min_cost
+    end_time = time.time()  # Record the end time
+    execution_time = end_time - start_time
+
+    return best_path, min_cost, execution_time
 
 # Matriz de adjacência
-
 adjacency_matrices_path = 'C:\\Repositorio\\algoritmos-e-estrutura-de-dados-iii\\trabalho-01\\adjacency-matrices\\'
 file_name = 'tsp1_253.txt'
-# file_name = 'tsp2_1248.txt'
-# file_name = 'tsp3_1194.txt'
-# file_name = 'tsp4_7013.txt'
-# file_name = 'tsp5_27603.txt'
 
 file_path = adjacency_matrices_path + file_name
 
 graph = read_matrix_from_file(file_path)
 
-result_path, result_cost = tsp_branch_and_bound(graph)
+result_path, result_cost, execution_time = tsp_branch_and_bound(graph)
 
 print("Melhor caminho:", result_path)
 print("Custo mínimo:", result_cost)
+print("Tempo de execução:", execution_time, "segundos")
