@@ -1,5 +1,6 @@
 import sys
-import time
+# import time
+from timeit import default_timer as timer
 
 def read_matrix_from_file(file_path):
     with open(file_path, 'r') as file:
@@ -35,12 +36,15 @@ def tsp_branch_and_bound(graph):
     best_path = []
     min_cost = sys.maxsize
 
-    start_time = time.time()  # Record the start time
+    # start_time = time.time()  # Record the start time
+    start = timer()
 
     branch_and_bound_rec([start_node], calculate_lower_bound([start_node]))
 
-    end_time = time.time()  # Record the end time
-    execution_time = end_time - start_time
+    # end_time = time.time()  # Record the end time
+    # execution_time = end_time - start_time
+    end = timer()
+    execution_time = end - start
 
     return best_path, min_cost, execution_time
 
