@@ -28,8 +28,12 @@ def nearest_neighbor(matrix):
     return tour, total_cost
 
 # Matriz de adjacência
-adjacency_matrices_path = 'C:\\Repositorio\\algoritmos-e-estrutura-de-dados-iii\\trabalho-01\\adjacency-matrices\\'
-file_name = 'tsp5_27603.txt'
+# adjacency_matrices_path = 'C:\\Repositorio\\algoritmos-e-estrutura-de-dados-iii\\trabalho-01\\adjacency-matrices\\'
+
+#linux
+adjacency_matrices_path = '/home/thiago/Repositorio/algoritmos-e-estrutura-de-dados-iii/trabalho-01/adjacency-matrices/'
+
+file_name = 'tsp1_253.txt'
 
 file_path = adjacency_matrices_path + file_name
 
