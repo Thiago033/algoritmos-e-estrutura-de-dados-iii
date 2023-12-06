@@ -1,20 +1,19 @@
 import os
 from pathlib import Path
 
+# Assuming your current script is in a folder at a certain level
+current_folder = os.path.dirname(__file__)
 
-# Matriz de adjacência
-adjacency_matrices_path = '/home/thiago/Repositorio/algoritmos-e-estrutura-de-dados-iii/trabalho-01/adjacency-matrices/'
+# Navigating to another folder in a different level
+target_folder = os.path.join(current_folder, '..', 'adjacency-matrices')
 
-file_name = '\\tsp1_253.txt'
-# file_name = 'tsp2_1248.txt'
-# file_name = 'tsp3_1194.txt'
-# file_name = 'tsp4_7013.txt'
-# file_name = 'tsp5_27603.txt'
+# Getting the absolute path of the target folder
+absolute_path = os.path.abspath(target_folder)
 
-file_path = adjacency_matrices_path + file_name
+# Specify the file name
+file_name = 'example.txt'
 
-print("path 1:")
-print(file_path)
+# Creating the absolute path for the text file
+file_path = os.path.join(absolute_path, file_name)
 
-print("path 2:")
-print(Path().absolute().parent)
+print(f"The absolute path of the target folder is:\n {file_path}")
