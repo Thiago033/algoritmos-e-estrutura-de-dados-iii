@@ -1,6 +1,6 @@
 import numpy as np
 import time
-from pathlib import Path
+import os
 
 def read_matrix_from_file(file_path):
     with open(file_path, 'r') as file:
@@ -27,19 +27,23 @@ def nearest_neighbor(matrix):
 
     return tour, total_cost
 
-# Matriz de adjacência
-# adjacency_matrices_path = '/home/thiago/Repositorio/algoritmos-e-estrutura-de-dados-iii/trabalho-01/adjacency-matrices/'
-
-adjacency_matrices_path = str(Path().absolute().parent)
-
-file_name = '\\adjacency-matrices\\tsp1_253.txt'
-# file_name = 'tsp2_1248.txt'
+# file_name = 'tsp1_253.txt'
+file_name = 'tsp2_1248.txt'
 # file_name = 'tsp3_1194.txt'
 # file_name = 'tsp4_7013.txt'
 # file_name = 'tsp5_27603.txt'
 
-file_path = adjacency_matrices_path + file_name
+# Assuming your current script is in a folder at a certain level
+current_folder = os.path.dirname(__file__)
 
+# Navigating to another folder in a different level
+target_folder = os.path.join(current_folder, '..', 'adjacency-matrices')
+
+# Getting the absolute path of the target folder
+absolute_path = os.path.abspath(target_folder)
+
+# Creating the absolute path for the text file
+file_path = os.path.join(absolute_path, file_name)
 
 start_time = time.time()
 
