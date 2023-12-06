@@ -55,7 +55,7 @@ def choose_tsp_file():
         sys.exit()
 
 # Number of iterations
-num_iterations = 50
+num_iterations = 10
 
 total_execution_time = 0
 output_file_path2 = 0

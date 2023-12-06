@@ -108,7 +108,7 @@ for iteration in range(num_iterations):
     total_execution_time += execution_time
 
     # Escrevendo os resultados em um arquivo de texto para cada instância do TSP
-    output_file_path = os.path.join(resultados_folder, f"results_brute_force_{file_name[:-4]}.log")
+    output_file_path = os.path.join(resultados_folder, f"results_exato_{file_name[:-4]}.log")
     results_file_name = output_file_path
     
     with open(output_file_path, 'a') as output_file:
