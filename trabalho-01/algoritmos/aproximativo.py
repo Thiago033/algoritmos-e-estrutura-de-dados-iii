@@ -1,5 +1,6 @@
 import numpy as np
 import time
+from pathlib import Path
 
 def read_matrix_from_file(file_path):
     with open(file_path, 'r') as file:
@@ -27,9 +28,11 @@ def nearest_neighbor(matrix):
     return tour, total_cost
 
 # Matriz de adjacência
-adjacency_matrices_path = '/home/thiago/Repositorio/algoritmos-e-estrutura-de-dados-iii/trabalho-01/adjacency-matrices/'
+# adjacency_matrices_path = '/home/thiago/Repositorio/algoritmos-e-estrutura-de-dados-iii/trabalho-01/adjacency-matrices/'
 
-file_name = 'tsp1_253.txt'
+adjacency_matrices_path = str(Path().absolute().parent)
+
+file_name = '\\adjacency-matrices\\tsp1_253.txt'
 # file_name = 'tsp2_1248.txt'
 # file_name = 'tsp3_1194.txt'
 # file_name = 'tsp4_7013.txt'
