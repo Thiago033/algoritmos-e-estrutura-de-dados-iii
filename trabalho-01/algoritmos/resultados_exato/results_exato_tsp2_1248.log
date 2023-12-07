@@ -40,3 +40,9 @@ Tempo de Execução: 0.000675201416015625 segundos
 ------------------------------
 
 Tempo de Execução Médio em todas as iterações: 0.0007100820541381836 segundos
+Iteração 1:
+Custo Mínimo: 1248
+Tempo de Execução: 0.0007288455963134766 segundos
+------------------------------
+
+Tempo de Execução Médio em todas as iterações: 0.0007288455963134766 segundos
