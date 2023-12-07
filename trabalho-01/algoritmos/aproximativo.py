@@ -12,27 +12,12 @@ def read_matrix_from_file(file_path):
         matrix = [list(map(int, line.split())) for line in lines]
     return np.array(matrix)
 
-# Function to find the nearest neighbor solution for the Traveling Salesman Problem (TSP)
-def nearest_neighbor(matrix):
-    num_nodes = len(matrix)
-    unvisited_nodes = set(range(1, num_nodes))
-    current_node = 0
-    tour = [current_node]
-    total_cost = 0
 
-    while unvisited_nodes:
-        # Finding the nearest unvisited node
-        nearest_node = min(unvisited_nodes, key=lambda node: matrix[current_node][node])
-        tour.append(nearest_node)
-        total_cost += matrix[current_node][nearest_node]
-        unvisited_nodes.remove(nearest_node)
-        current_node = nearest_node
 
-    # Completing the tour by going back to the starting node
-    tour.append(tour[0])
-    total_cost += matrix[current_node][tour[0]]
 
-    return tour, total_cost
+
+
+
 
 # Function to let the user choose a TSP file
 def choose_tsp_file():
@@ -88,7 +73,7 @@ for iteration in range(num_iterations):
     matrix = read_matrix_from_file(file_path)
 
     # Encontrando a solução do vizinho mais próximo para o TSP
-    result_path, result_cost = nearest_neighbor(matrix)
+    # result_path, result_cost = nearest_neighbor(matrix)
 
     # Gravando o tempo de término para medição do tempo de execução
     end_time = time.time()
