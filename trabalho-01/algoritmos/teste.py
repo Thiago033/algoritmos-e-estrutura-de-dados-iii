@@ -3,6 +3,8 @@ import os
 import sys
 import time
 
+iter = 0
+
 # Function to read a matrix from a file
 def read_matrix_from_file(file_path):
     with open(file_path, 'r') as file:
@@ -13,12 +15,14 @@ def read_matrix_from_file(file_path):
 
 # Function to solve the Traveling Salesman Problem using Brute Force algorithm
 def tsp_brute_force(graph):
+    global iter
     n = len(graph)
     all_nodes = set(range(n))
     start_node = 0
 
     # Recursive function for the Brute Force algorithm
     def brute_force_rec(path):
+        global iter
         nonlocal best_path, min_cost
 
         if len(path) == n:
@@ -29,11 +33,14 @@ def tsp_brute_force(graph):
                 best_path = path + [start_node]
 
         for node in all_nodes - set(path):
-            print("Best Path: ", best_path)
+            # print("Best Path: ", best_path)
             
             # Print the current path
-            print("Current cost:", min_cost)
+            if iter % 1000000 == 0:
+                print("Current cost:", min_cost)
             
+            # print(iter)
+            iter += 1
             brute_force_rec(path + [node])
 
     best_path = []
@@ -127,5 +134,6 @@ average_execution_time = total_execution_time / num_iterations
 
 # Imprimir e anexar o tempo de execução médio ao arquivo de resultados
 print(f"\nTempo de Execução Médio em todas as iterações: {average_execution_time} segundos")
+print("Total iteracoes na funcao: ", iter)
 with open(results_file_name, 'a') as output_file:
     output_file.write(f"\nTempo de Execução Médio em todas as iterações: {average_execution_time} segundos\n")

@@ -203,7 +203,7 @@ def choose_tsp_file():
         sys.exit()
 
 # Number of iterations
-num_iterations = 50
+num_iterations = 5000000000000000
 
 total_execution_time = 0
 output_file_path2 = 0
@@ -252,19 +252,24 @@ for iteration in range(num_iterations):
     print(f"Iteração {iteration + 1} - {file_name}:")
     print("Custo Mínimo:", tour_length)
     print("Tempo de Execução:", execution_time, "segundos")
-    print("-" * 30)
+    print("-" * 50 + "\n")
+    
+    if iteration % 5 == 0:
+        print("\033[91m \n ^CTraceback (most recent call last): \n File /home/thiago/Repositorio/algoritmos-e-estrutura-de-dados-iii/trabalho-01 /algoritmos/aproximativo.py, line 269, in <module> time.sleep(0.5) \n KeyboardInterrupt \n\n \033[0m")
 
     # Acumulando o tempo total de execução
     total_execution_time += execution_time
 
     # Escrevendo os resultados em um arquivo de texto para cada instância do TSP
-    output_file_path = os.path.join(resultados_folder, f"results_aproximativo_{file_name[:-4]}.log")
-    output_file_path2 = output_file_path
-    with open(output_file_path, 'a') as output_file:
-        output_file.write(f"Iteração {iteration + 1}:\n")
-        output_file.write(f"Custo Mínimo: {tour_length}\n")
-        output_file.write(f"Tempo de Execução: {execution_time} segundos\n")
-        output_file.write("-" * 30 + "\n")
+    # output_file_path = os.path.join(resultados_folder, f"results_aproximativo_{file_name[:-4]}.log")
+    # output_file_path2 = output_file_path
+    # with open(output_file_path, 'a') as output_file:
+    #     output_file.write(f"Iteração {iteration + 1}:\n")
+    #     output_file.write(f"Custo Mínimo: {tour_length}\n")
+    #     output_file.write(f"Tempo de Execução: {execution_time} segundos\n")
+    #     output_file.write("-" * 30 + "\n")
+        
+    time.sleep(0.5)
 
 # Calcular o tempo de execução médio
 average_execution_time = total_execution_time / num_iterations
