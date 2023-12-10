@@ -1,0 +1,4002 @@
+Iteration 1:
+Minimum Cost: 1248
+Execution Time: 0.0007634162902832031 seconds
+------------------------------
+Iteration 2:
+Minimum Cost: 1248
+Execution Time: 0.0008344650268554688 seconds
+------------------------------
+Iteration 3:
+Minimum Cost: 1248
+Execution Time: 0.0007712841033935547 seconds
+------------------------------
+Iteration 4:
+Minimum Cost: 1248
+Execution Time: 0.0007770061492919922 seconds
+------------------------------
+Iteration 5:
+Minimum Cost: 1248
+Execution Time: 0.0007386207580566406 seconds
+------------------------------
+Iteration 6:
+Minimum Cost: 1248
+Execution Time: 0.0006880760192871094 seconds
+------------------------------
+Iteration 7:
+Minimum Cost: 1248
+Execution Time: 0.0006797313690185547 seconds
+------------------------------
+Iteration 8:
+Minimum Cost: 1248
+Execution Time: 0.0006763935089111328 seconds
+------------------------------
+Iteration 9:
+Minimum Cost: 1248
+Execution Time: 0.0006890296936035156 seconds
+------------------------------
+Iteration 10:
+Minimum Cost: 1248
+Execution Time: 0.0006868839263916016 seconds
+------------------------------
+Iteration 11:
+Minimum Cost: 1248
+Execution Time: 0.0006871223449707031 seconds
+------------------------------
+Iteration 12:
+Minimum Cost: 1248
+Execution Time: 0.0012254714965820312 seconds
+------------------------------
+Iteration 13:
+Minimum Cost: 1248
+Execution Time: 0.0007219314575195312 seconds
+------------------------------
+Iteration 14:
+Minimum Cost: 1248
+Execution Time: 0.0009472370147705078 seconds
+------------------------------
+Iteration 15:
+Minimum Cost: 1248
+Execution Time: 0.0006895065307617188 seconds
+------------------------------
+Iteration 16:
+Minimum Cost: 1248
+Execution Time: 0.0007033348083496094 seconds
+------------------------------
+Iteration 17:
+Minimum Cost: 1248
+Execution Time: 0.000713348388671875 seconds
+------------------------------
+Iteration 18:
+Minimum Cost: 1248
+Execution Time: 0.0006659030914306641 seconds
+------------------------------
+Iteration 19:
+Minimum Cost: 1248
+Execution Time: 0.00064849853515625 seconds
+------------------------------
+Iteration 20:
+Minimum Cost: 1248
+Execution Time: 0.0006921291351318359 seconds
+------------------------------
+Iteration 21:
+Minimum Cost: 1248
+Execution Time: 0.0006802082061767578 seconds
+------------------------------
+Iteration 22:
+Minimum Cost: 1248
+Execution Time: 0.0006544589996337891 seconds
+------------------------------
+Iteration 23:
+Minimum Cost: 1248
+Execution Time: 0.0006246566772460938 seconds
+------------------------------
+Iteration 24:
+Minimum Cost: 1248
+Execution Time: 0.0006515979766845703 seconds
+------------------------------
+Iteration 25:
+Minimum Cost: 1248
+Execution Time: 0.0006275177001953125 seconds
+------------------------------
+Iteration 26:
+Minimum Cost: 1248
+Execution Time: 0.0006241798400878906 seconds
+------------------------------
+Iteration 27:
+Minimum Cost: 1248
+Execution Time: 0.000652313232421875 seconds
+------------------------------
+Iteration 28:
+Minimum Cost: 1248
+Execution Time: 0.0006253719329833984 seconds
+------------------------------
+Iteration 29:
+Minimum Cost: 1248
+Execution Time: 0.0006272792816162109 seconds
+------------------------------
+Iteration 30:
+Minimum Cost: 1248
+Execution Time: 0.0006251335144042969 seconds
+------------------------------
+Iteration 31:
+Minimum Cost: 1248
+Execution Time: 0.0011696815490722656 seconds
+------------------------------
+Iteration 32:
+Minimum Cost: 1248
+Execution Time: 0.001093149185180664 seconds
+------------------------------
+Iteration 33:
+Minimum Cost: 1248
+Execution Time: 0.0010273456573486328 seconds
+------------------------------
+Iteration 34:
+Minimum Cost: 1248
+Execution Time: 0.0006530284881591797 seconds
+------------------------------
+Iteration 35:
+Minimum Cost: 1248
+Execution Time: 0.0006365776062011719 seconds
+------------------------------
+Iteration 36:
+Minimum Cost: 1248
+Execution Time: 0.0006287097930908203 seconds
+------------------------------
+Iteration 37:
+Minimum Cost: 1248
+Execution Time: 0.0006248950958251953 seconds
+------------------------------
+Iteration 38:
+Minimum Cost: 1248
+Execution Time: 0.0006270408630371094 seconds
+------------------------------
+Iteration 39:
+Minimum Cost: 1248
+Execution Time: 0.0006253719329833984 seconds
+------------------------------
+Iteration 40:
+Minimum Cost: 1248
+Execution Time: 0.0006299018859863281 seconds
+------------------------------
+Iteration 41:
+Minimum Cost: 1248
+Execution Time: 0.0006256103515625 seconds
+------------------------------
+Iteration 42:
+Minimum Cost: 1248
+Execution Time: 0.0006327629089355469 seconds
+------------------------------
+Iteration 43:
+Minimum Cost: 1248
+Execution Time: 0.0006165504455566406 seconds
+------------------------------
+Iteration 44:
+Minimum Cost: 1248
+Execution Time: 0.0006220340728759766 seconds
+------------------------------
+Iteration 45:
+Minimum Cost: 1248
+Execution Time: 0.0006196498870849609 seconds
+------------------------------
+Iteration 46:
+Minimum Cost: 1248
+Execution Time: 0.0006239414215087891 seconds
+------------------------------
+Iteration 47:
+Minimum Cost: 1248
+Execution Time: 0.0006380081176757812 seconds
+------------------------------
+Iteration 48:
+Minimum Cost: 1248
+Execution Time: 0.0006225109100341797 seconds
+------------------------------
+Iteration 49:
+Minimum Cost: 1248
+Execution Time: 0.0006611347198486328 seconds
+------------------------------
+Iteration 50:
+Minimum Cost: 1248
+Execution Time: 0.0006184577941894531 seconds
+------------------------------
+Iteration 51:
+Minimum Cost: 1248
+Execution Time: 0.0006277561187744141 seconds
+------------------------------
+Iteration 52:
+Minimum Cost: 1248
+Execution Time: 0.0006260871887207031 seconds
+------------------------------
+Iteration 53:
+Minimum Cost: 1248
+Execution Time: 0.0006239414215087891 seconds
+------------------------------
+Iteration 54:
+Minimum Cost: 1248
+Execution Time: 0.0006115436553955078 seconds
+------------------------------
+Iteration 55:
+Minimum Cost: 1248
+Execution Time: 0.0005762577056884766 seconds
+------------------------------
+Iteration 56:
+Minimum Cost: 1248
+Execution Time: 0.0005745887756347656 seconds
+------------------------------
+Iteration 57:
+Minimum Cost: 1248
+Execution Time: 0.0007503032684326172 seconds
+------------------------------
+Iteration 58:
+Minimum Cost: 1248
+Execution Time: 0.0005695819854736328 seconds
+------------------------------
+Iteration 59:
+Minimum Cost: 1248
+Execution Time: 0.0005810260772705078 seconds
+------------------------------
+Iteration 60:
+Minimum Cost: 1248
+Execution Time: 0.0005948543548583984 seconds
+------------------------------
+Iteration 61:
+Minimum Cost: 1248
+Execution Time: 0.0005717277526855469 seconds
+------------------------------
+Iteration 62:
+Minimum Cost: 1248
+Execution Time: 0.0005700588226318359 seconds
+------------------------------
+Iteration 63:
+Minimum Cost: 1248
+Execution Time: 0.0005693435668945312 seconds
+------------------------------
+Iteration 64:
+Minimum Cost: 1248
+Execution Time: 0.0006098747253417969 seconds
+------------------------------
+Iteration 65:
+Minimum Cost: 1248
+Execution Time: 0.0006206035614013672 seconds
+------------------------------
+Iteration 66:
+Minimum Cost: 1248
+Execution Time: 0.0006253719329833984 seconds
+------------------------------
+Iteration 67:
+Minimum Cost: 1248
+Execution Time: 0.0006093978881835938 seconds
+------------------------------
+Iteration 68:
+Minimum Cost: 1248
+Execution Time: 0.0005741119384765625 seconds
+------------------------------
+Iteration 69:
+Minimum Cost: 1248
+Execution Time: 0.0005805492401123047 seconds
+------------------------------
+Iteration 70:
+Minimum Cost: 1248
+Execution Time: 0.0010879039764404297 seconds
+------------------------------
+Iteration 71:
+Minimum Cost: 1248
+Execution Time: 0.0010111331939697266 seconds
+------------------------------
+Iteration 72:
+Minimum Cost: 1248
+Execution Time: 0.0010995864868164062 seconds
+------------------------------
+Iteration 73:
+Minimum Cost: 1248
+Execution Time: 0.0005931854248046875 seconds
+------------------------------
+Iteration 74:
+Minimum Cost: 1248
+Execution Time: 0.0005803108215332031 seconds
+------------------------------
+Iteration 75:
+Minimum Cost: 1248
+Execution Time: 0.0005943775177001953 seconds
+------------------------------
+Iteration 76:
+Minimum Cost: 1248
+Execution Time: 0.0005846023559570312 seconds
+------------------------------
+Iteration 77:
+Minimum Cost: 1248
+Execution Time: 0.0005350112915039062 seconds
+------------------------------
+Iteration 78:
+Minimum Cost: 1248
+Execution Time: 0.0004508495330810547 seconds
+------------------------------
+Iteration 79:
+Minimum Cost: 1248
+Execution Time: 0.00045013427734375 seconds
+------------------------------
+Iteration 80:
+Minimum Cost: 1248
+Execution Time: 0.00044918060302734375 seconds
+------------------------------
+Iteration 81:
+Minimum Cost: 1248
+Execution Time: 0.00046944618225097656 seconds
+------------------------------
+Iteration 82:
+Minimum Cost: 1248
+Execution Time: 0.00046062469482421875 seconds
+------------------------------
+Iteration 83:
+Minimum Cost: 1248
+Execution Time: 0.0004496574401855469 seconds
+------------------------------
+Iteration 84:
+Minimum Cost: 1248
+Execution Time: 0.0004532337188720703 seconds
+------------------------------
+Iteration 85:
+Minimum Cost: 1248
+Execution Time: 0.0004572868347167969 seconds
+------------------------------
+Iteration 86:
+Minimum Cost: 1248
+Execution Time: 0.0004494190216064453 seconds
+------------------------------
+Iteration 87:
+Minimum Cost: 1248
+Execution Time: 0.0004489421844482422 seconds
+------------------------------
+Iteration 88:
+Minimum Cost: 1248
+Execution Time: 0.00045418739318847656 seconds
+------------------------------
+Iteration 89:
+Minimum Cost: 1248
+Execution Time: 0.00040984153747558594 seconds
+------------------------------
+Iteration 90:
+Minimum Cost: 1248
+Execution Time: 0.00035309791564941406 seconds
+------------------------------
+Iteration 91:
+Minimum Cost: 1248
+Execution Time: 0.0003542900085449219 seconds
+------------------------------
+Iteration 92:
+Minimum Cost: 1248
+Execution Time: 0.00035071372985839844 seconds
+------------------------------
+Iteration 93:
+Minimum Cost: 1248
+Execution Time: 0.0003554821014404297 seconds
+------------------------------
+Iteration 94:
+Minimum Cost: 1248
+Execution Time: 0.00035643577575683594 seconds
+------------------------------
+Iteration 95:
+Minimum Cost: 1248
+Execution Time: 0.00036787986755371094 seconds
+------------------------------
+Iteration 96:
+Minimum Cost: 1248
+Execution Time: 0.00035858154296875 seconds
+------------------------------
+Iteration 97:
+Minimum Cost: 1248
+Execution Time: 0.00035262107849121094 seconds
+------------------------------
+Iteration 98:
+Minimum Cost: 1248
+Execution Time: 0.0004754066467285156 seconds
+------------------------------
+Iteration 99:
+Minimum Cost: 1248
+Execution Time: 0.00045418739318847656 seconds
+------------------------------
+Iteration 100:
+Minimum Cost: 1248
+Execution Time: 0.0003490447998046875 seconds
+------------------------------
+Iteration 101:
+Minimum Cost: 1248
+Execution Time: 0.00034999847412109375 seconds
+------------------------------
+Iteration 102:
+Minimum Cost: 1248
+Execution Time: 0.00046944618225097656 seconds
+------------------------------
+Iteration 103:
+Minimum Cost: 1248
+Execution Time: 0.0003333091735839844 seconds
+------------------------------
+Iteration 104:
+Minimum Cost: 1248
+Execution Time: 0.0002720355987548828 seconds
+------------------------------
+Iteration 105:
+Minimum Cost: 1248
+Execution Time: 0.00027060508728027344 seconds
+------------------------------
+Iteration 106:
+Minimum Cost: 1248
+Execution Time: 0.00027298927307128906 seconds
+------------------------------
+Iteration 107:
+Minimum Cost: 1248
+Execution Time: 0.00027060508728027344 seconds
+------------------------------
+Iteration 108:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 109:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 110:
+Minimum Cost: 1248
+Execution Time: 0.0002608299255371094 seconds
+------------------------------
+Iteration 111:
+Minimum Cost: 1248
+Execution Time: 0.00026154518127441406 seconds
+------------------------------
+Iteration 112:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 113:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 114:
+Minimum Cost: 1248
+Execution Time: 0.0002627372741699219 seconds
+------------------------------
+Iteration 115:
+Minimum Cost: 1248
+Execution Time: 0.00026345252990722656 seconds
+------------------------------
+Iteration 116:
+Minimum Cost: 1248
+Execution Time: 0.0002627372741699219 seconds
+------------------------------
+Iteration 117:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 118:
+Minimum Cost: 1248
+Execution Time: 0.0002636909484863281 seconds
+------------------------------
+Iteration 119:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 120:
+Minimum Cost: 1248
+Execution Time: 0.0002644062042236328 seconds
+------------------------------
+Iteration 121:
+Minimum Cost: 1248
+Execution Time: 0.00026726722717285156 seconds
+------------------------------
+Iteration 122:
+Minimum Cost: 1248
+Execution Time: 0.00026488304138183594 seconds
+------------------------------
+Iteration 123:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 124:
+Minimum Cost: 1248
+Execution Time: 0.00026035308837890625 seconds
+------------------------------
+Iteration 125:
+Minimum Cost: 1248
+Execution Time: 0.0002627372741699219 seconds
+------------------------------
+Iteration 126:
+Minimum Cost: 1248
+Execution Time: 0.00025916099548339844 seconds
+------------------------------
+Iteration 127:
+Minimum Cost: 1248
+Execution Time: 0.0002722740173339844 seconds
+------------------------------
+Iteration 128:
+Minimum Cost: 1248
+Execution Time: 0.0002627372741699219 seconds
+------------------------------
+Iteration 129:
+Minimum Cost: 1248
+Execution Time: 0.000263214111328125 seconds
+------------------------------
+Iteration 130:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 131:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 132:
+Minimum Cost: 1248
+Execution Time: 0.0002598762512207031 seconds
+------------------------------
+Iteration 133:
+Minimum Cost: 1248
+Execution Time: 0.0002593994140625 seconds
+------------------------------
+Iteration 134:
+Minimum Cost: 1248
+Execution Time: 0.0002636909484863281 seconds
+------------------------------
+Iteration 135:
+Minimum Cost: 1248
+Execution Time: 0.0002593994140625 seconds
+------------------------------
+Iteration 136:
+Minimum Cost: 1248
+Execution Time: 0.00026154518127441406 seconds
+------------------------------
+Iteration 137:
+Minimum Cost: 1248
+Execution Time: 0.0002620220184326172 seconds
+------------------------------
+Iteration 138:
+Minimum Cost: 1248
+Execution Time: 0.0002579689025878906 seconds
+------------------------------
+Iteration 139:
+Minimum Cost: 1248
+Execution Time: 0.00025916099548339844 seconds
+------------------------------
+Iteration 140:
+Minimum Cost: 1248
+Execution Time: 0.00025916099548339844 seconds
+------------------------------
+Iteration 141:
+Minimum Cost: 1248
+Execution Time: 0.0002574920654296875 seconds
+------------------------------
+Iteration 142:
+Minimum Cost: 1248
+Execution Time: 0.00026035308837890625 seconds
+------------------------------
+Iteration 143:
+Minimum Cost: 1248
+Execution Time: 0.00026035308837890625 seconds
+------------------------------
+Iteration 144:
+Minimum Cost: 1248
+Execution Time: 0.0002579689025878906 seconds
+------------------------------
+Iteration 145:
+Minimum Cost: 1248
+Execution Time: 0.0002560615539550781 seconds
+------------------------------
+Iteration 146:
+Minimum Cost: 1248
+Execution Time: 0.0002570152282714844 seconds
+------------------------------
+Iteration 147:
+Minimum Cost: 1248
+Execution Time: 0.0003421306610107422 seconds
+------------------------------
+Iteration 148:
+Minimum Cost: 1248
+Execution Time: 0.0002582073211669922 seconds
+------------------------------
+Iteration 149:
+Minimum Cost: 1248
+Execution Time: 0.00026535987854003906 seconds
+------------------------------
+Iteration 150:
+Minimum Cost: 1248
+Execution Time: 0.00025963783264160156 seconds
+------------------------------
+Iteration 151:
+Minimum Cost: 1248
+Execution Time: 0.0002694129943847656 seconds
+------------------------------
+Iteration 152:
+Minimum Cost: 1248
+Execution Time: 0.0002570152282714844 seconds
+------------------------------
+Iteration 153:
+Minimum Cost: 1248
+Execution Time: 0.0002598762512207031 seconds
+------------------------------
+Iteration 154:
+Minimum Cost: 1248
+Execution Time: 0.0002620220184326172 seconds
+------------------------------
+Iteration 155:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 156:
+Minimum Cost: 1248
+Execution Time: 0.0002655982971191406 seconds
+------------------------------
+Iteration 157:
+Minimum Cost: 1248
+Execution Time: 0.00026106834411621094 seconds
+------------------------------
+Iteration 158:
+Minimum Cost: 1248
+Execution Time: 0.0002582073211669922 seconds
+------------------------------
+Iteration 159:
+Minimum Cost: 1248
+Execution Time: 0.00026035308837890625 seconds
+------------------------------
+Iteration 160:
+Minimum Cost: 1248
+Execution Time: 0.0002639293670654297 seconds
+------------------------------
+Iteration 161:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 162:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 163:
+Minimum Cost: 1248
+Execution Time: 0.0002644062042236328 seconds
+------------------------------
+Iteration 164:
+Minimum Cost: 1248
+Execution Time: 0.00026297569274902344 seconds
+------------------------------
+Iteration 165:
+Minimum Cost: 1248
+Execution Time: 0.000263214111328125 seconds
+------------------------------
+Iteration 166:
+Minimum Cost: 1248
+Execution Time: 0.0002624988555908203 seconds
+------------------------------
+Iteration 167:
+Minimum Cost: 1248
+Execution Time: 0.00026679039001464844 seconds
+------------------------------
+Iteration 168:
+Minimum Cost: 1248
+Execution Time: 0.0002608299255371094 seconds
+------------------------------
+Iteration 169:
+Minimum Cost: 1248
+Execution Time: 0.000263214111328125 seconds
+------------------------------
+Iteration 170:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 171:
+Minimum Cost: 1248
+Execution Time: 0.0002663135528564453 seconds
+------------------------------
+Iteration 172:
+Minimum Cost: 1248
+Execution Time: 0.00026416778564453125 seconds
+------------------------------
+Iteration 173:
+Minimum Cost: 1248
+Execution Time: 0.00026297569274902344 seconds
+------------------------------
+Iteration 174:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 175:
+Minimum Cost: 1248
+Execution Time: 0.0002627372741699219 seconds
+------------------------------
+Iteration 176:
+Minimum Cost: 1248
+Execution Time: 0.00026416778564453125 seconds
+------------------------------
+Iteration 177:
+Minimum Cost: 1248
+Execution Time: 0.00026035308837890625 seconds
+------------------------------
+Iteration 178:
+Minimum Cost: 1248
+Execution Time: 0.00026035308837890625 seconds
+------------------------------
+Iteration 179:
+Minimum Cost: 1248
+Execution Time: 0.00026607513427734375 seconds
+------------------------------
+Iteration 180:
+Minimum Cost: 1248
+Execution Time: 0.0002663135528564453 seconds
+------------------------------
+Iteration 181:
+Minimum Cost: 1248
+Execution Time: 0.0002608299255371094 seconds
+------------------------------
+Iteration 182:
+Minimum Cost: 1248
+Execution Time: 0.00026154518127441406 seconds
+------------------------------
+Iteration 183:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 184:
+Minimum Cost: 1248
+Execution Time: 0.0002636909484863281 seconds
+------------------------------
+Iteration 185:
+Minimum Cost: 1248
+Execution Time: 0.0002601146697998047 seconds
+------------------------------
+Iteration 186:
+Minimum Cost: 1248
+Execution Time: 0.00026035308837890625 seconds
+------------------------------
+Iteration 187:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 188:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 189:
+Minimum Cost: 1248
+Execution Time: 0.0002582073211669922 seconds
+------------------------------
+Iteration 190:
+Minimum Cost: 1248
+Execution Time: 0.00025725364685058594 seconds
+------------------------------
+Iteration 191:
+Minimum Cost: 1248
+Execution Time: 0.0002620220184326172 seconds
+------------------------------
+Iteration 192:
+Minimum Cost: 1248
+Execution Time: 0.00034880638122558594 seconds
+------------------------------
+Iteration 193:
+Minimum Cost: 1248
+Execution Time: 0.00026106834411621094 seconds
+------------------------------
+Iteration 194:
+Minimum Cost: 1248
+Execution Time: 0.0002665519714355469 seconds
+------------------------------
+Iteration 195:
+Minimum Cost: 1248
+Execution Time: 0.00026535987854003906 seconds
+------------------------------
+Iteration 196:
+Minimum Cost: 1248
+Execution Time: 0.0002624988555908203 seconds
+------------------------------
+Iteration 197:
+Minimum Cost: 1248
+Execution Time: 0.00026106834411621094 seconds
+------------------------------
+Iteration 198:
+Minimum Cost: 1248
+Execution Time: 0.00025963783264160156 seconds
+------------------------------
+Iteration 199:
+Minimum Cost: 1248
+Execution Time: 0.0002665519714355469 seconds
+------------------------------
+Iteration 200:
+Minimum Cost: 1248
+Execution Time: 0.0002582073211669922 seconds
+------------------------------
+Iteration 201:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 202:
+Minimum Cost: 1248
+Execution Time: 0.0002620220184326172 seconds
+------------------------------
+Iteration 203:
+Minimum Cost: 1248
+Execution Time: 0.0002644062042236328 seconds
+------------------------------
+Iteration 204:
+Minimum Cost: 1248
+Execution Time: 0.0002627372741699219 seconds
+------------------------------
+Iteration 205:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 206:
+Minimum Cost: 1248
+Execution Time: 0.00026345252990722656 seconds
+------------------------------
+Iteration 207:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 208:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 209:
+Minimum Cost: 1248
+Execution Time: 0.0002655982971191406 seconds
+------------------------------
+Iteration 210:
+Minimum Cost: 1248
+Execution Time: 0.0002639293670654297 seconds
+------------------------------
+Iteration 211:
+Minimum Cost: 1248
+Execution Time: 0.0002655982971191406 seconds
+------------------------------
+Iteration 212:
+Minimum Cost: 1248
+Execution Time: 0.0002677440643310547 seconds
+------------------------------
+Iteration 213:
+Minimum Cost: 1248
+Execution Time: 0.00026345252990722656 seconds
+------------------------------
+Iteration 214:
+Minimum Cost: 1248
+Execution Time: 0.0002624988555908203 seconds
+------------------------------
+Iteration 215:
+Minimum Cost: 1248
+Execution Time: 0.0002627372741699219 seconds
+------------------------------
+Iteration 216:
+Minimum Cost: 1248
+Execution Time: 0.0002608299255371094 seconds
+------------------------------
+Iteration 217:
+Minimum Cost: 1248
+Execution Time: 0.000263214111328125 seconds
+------------------------------
+Iteration 218:
+Minimum Cost: 1248
+Execution Time: 0.0002639293670654297 seconds
+------------------------------
+Iteration 219:
+Minimum Cost: 1248
+Execution Time: 0.0002582073211669922 seconds
+------------------------------
+Iteration 220:
+Minimum Cost: 1248
+Execution Time: 0.0002593994140625 seconds
+------------------------------
+Iteration 221:
+Minimum Cost: 1248
+Execution Time: 0.0002582073211669922 seconds
+------------------------------
+Iteration 222:
+Minimum Cost: 1248
+Execution Time: 0.0002579689025878906 seconds
+------------------------------
+Iteration 223:
+Minimum Cost: 1248
+Execution Time: 0.0002579689025878906 seconds
+------------------------------
+Iteration 224:
+Minimum Cost: 1248
+Execution Time: 0.00028443336486816406 seconds
+------------------------------
+Iteration 225:
+Minimum Cost: 1248
+Execution Time: 0.0002579689025878906 seconds
+------------------------------
+Iteration 226:
+Minimum Cost: 1248
+Execution Time: 0.0002586841583251953 seconds
+------------------------------
+Iteration 227:
+Minimum Cost: 1248
+Execution Time: 0.00026154518127441406 seconds
+------------------------------
+Iteration 228:
+Minimum Cost: 1248
+Execution Time: 0.0002636909484863281 seconds
+------------------------------
+Iteration 229:
+Minimum Cost: 1248
+Execution Time: 0.00026035308837890625 seconds
+------------------------------
+Iteration 230:
+Minimum Cost: 1248
+Execution Time: 0.00026106834411621094 seconds
+------------------------------
+Iteration 231:
+Minimum Cost: 1248
+Execution Time: 0.0002598762512207031 seconds
+------------------------------
+Iteration 232:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 233:
+Minimum Cost: 1248
+Execution Time: 0.0002608299255371094 seconds
+------------------------------
+Iteration 234:
+Minimum Cost: 1248
+Execution Time: 0.0002593994140625 seconds
+------------------------------
+Iteration 235:
+Minimum Cost: 1248
+Execution Time: 0.0002570152282714844 seconds
+------------------------------
+Iteration 236:
+Minimum Cost: 1248
+Execution Time: 0.0002684593200683594 seconds
+------------------------------
+Iteration 237:
+Minimum Cost: 1248
+Execution Time: 0.0003387928009033203 seconds
+------------------------------
+Iteration 238:
+Minimum Cost: 1248
+Execution Time: 0.0002608299255371094 seconds
+------------------------------
+Iteration 239:
+Minimum Cost: 1248
+Execution Time: 0.00026726722717285156 seconds
+------------------------------
+Iteration 240:
+Minimum Cost: 1248
+Execution Time: 0.0002646446228027344 seconds
+------------------------------
+Iteration 241:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 242:
+Minimum Cost: 1248
+Execution Time: 0.0002624988555908203 seconds
+------------------------------
+Iteration 243:
+Minimum Cost: 1248
+Execution Time: 0.0002570152282714844 seconds
+------------------------------
+Iteration 244:
+Minimum Cost: 1248
+Execution Time: 0.00025844573974609375 seconds
+------------------------------
+Iteration 245:
+Minimum Cost: 1248
+Execution Time: 0.00026297569274902344 seconds
+------------------------------
+Iteration 246:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 247:
+Minimum Cost: 1248
+Execution Time: 0.0002593994140625 seconds
+------------------------------
+Iteration 248:
+Minimum Cost: 1248
+Execution Time: 0.00027680397033691406 seconds
+------------------------------
+Iteration 249:
+Minimum Cost: 1248
+Execution Time: 0.00026154518127441406 seconds
+------------------------------
+Iteration 250:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 251:
+Minimum Cost: 1248
+Execution Time: 0.00026345252990722656 seconds
+------------------------------
+Iteration 252:
+Minimum Cost: 1248
+Execution Time: 0.0002627372741699219 seconds
+------------------------------
+Iteration 253:
+Minimum Cost: 1248
+Execution Time: 0.00026297569274902344 seconds
+------------------------------
+Iteration 254:
+Minimum Cost: 1248
+Execution Time: 0.0002627372741699219 seconds
+------------------------------
+Iteration 255:
+Minimum Cost: 1248
+Execution Time: 0.00026297569274902344 seconds
+------------------------------
+Iteration 256:
+Minimum Cost: 1248
+Execution Time: 0.000263214111328125 seconds
+------------------------------
+Iteration 257:
+Minimum Cost: 1248
+Execution Time: 0.0002644062042236328 seconds
+------------------------------
+Iteration 258:
+Minimum Cost: 1248
+Execution Time: 0.00026106834411621094 seconds
+------------------------------
+Iteration 259:
+Minimum Cost: 1248
+Execution Time: 0.0002620220184326172 seconds
+------------------------------
+Iteration 260:
+Minimum Cost: 1248
+Execution Time: 0.0002689361572265625 seconds
+------------------------------
+Iteration 261:
+Minimum Cost: 1248
+Execution Time: 0.00026702880859375 seconds
+------------------------------
+Iteration 262:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 263:
+Minimum Cost: 1248
+Execution Time: 0.000263214111328125 seconds
+------------------------------
+Iteration 264:
+Minimum Cost: 1248
+Execution Time: 0.0002627372741699219 seconds
+------------------------------
+Iteration 265:
+Minimum Cost: 1248
+Execution Time: 0.00026035308837890625 seconds
+------------------------------
+Iteration 266:
+Minimum Cost: 1248
+Execution Time: 0.0002593994140625 seconds
+------------------------------
+Iteration 267:
+Minimum Cost: 1248
+Execution Time: 0.00026345252990722656 seconds
+------------------------------
+Iteration 268:
+Minimum Cost: 1248
+Execution Time: 0.0002598762512207031 seconds
+------------------------------
+Iteration 269:
+Minimum Cost: 1248
+Execution Time: 0.0002655982971191406 seconds
+------------------------------
+Iteration 270:
+Minimum Cost: 1248
+Execution Time: 0.00026035308837890625 seconds
+------------------------------
+Iteration 271:
+Minimum Cost: 1248
+Execution Time: 0.0002627372741699219 seconds
+------------------------------
+Iteration 272:
+Minimum Cost: 1248
+Execution Time: 0.00029206275939941406 seconds
+------------------------------
+Iteration 273:
+Minimum Cost: 1248
+Execution Time: 0.00025916099548339844 seconds
+------------------------------
+Iteration 274:
+Minimum Cost: 1248
+Execution Time: 0.00026416778564453125 seconds
+------------------------------
+Iteration 275:
+Minimum Cost: 1248
+Execution Time: 0.0002579689025878906 seconds
+------------------------------
+Iteration 276:
+Minimum Cost: 1248
+Execution Time: 0.0002598762512207031 seconds
+------------------------------
+Iteration 277:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 278:
+Minimum Cost: 1248
+Execution Time: 0.00026106834411621094 seconds
+------------------------------
+Iteration 279:
+Minimum Cost: 1248
+Execution Time: 0.00025963783264160156 seconds
+------------------------------
+Iteration 280:
+Minimum Cost: 1248
+Execution Time: 0.00025963783264160156 seconds
+------------------------------
+Iteration 281:
+Minimum Cost: 1248
+Execution Time: 0.0002551078796386719 seconds
+------------------------------
+Iteration 282:
+Minimum Cost: 1248
+Execution Time: 0.000339508056640625 seconds
+------------------------------
+Iteration 283:
+Minimum Cost: 1248
+Execution Time: 0.00026345252990722656 seconds
+------------------------------
+Iteration 284:
+Minimum Cost: 1248
+Execution Time: 0.00027561187744140625 seconds
+------------------------------
+Iteration 285:
+Minimum Cost: 1248
+Execution Time: 0.0002620220184326172 seconds
+------------------------------
+Iteration 286:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 287:
+Minimum Cost: 1248
+Execution Time: 0.00026297569274902344 seconds
+------------------------------
+Iteration 288:
+Minimum Cost: 1248
+Execution Time: 0.000263214111328125 seconds
+------------------------------
+Iteration 289:
+Minimum Cost: 1248
+Execution Time: 0.0002646446228027344 seconds
+------------------------------
+Iteration 290:
+Minimum Cost: 1248
+Execution Time: 0.000263214111328125 seconds
+------------------------------
+Iteration 291:
+Minimum Cost: 1248
+Execution Time: 0.0002663135528564453 seconds
+------------------------------
+Iteration 292:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 293:
+Minimum Cost: 1248
+Execution Time: 0.0002624988555908203 seconds
+------------------------------
+Iteration 294:
+Minimum Cost: 1248
+Execution Time: 0.0002627372741699219 seconds
+------------------------------
+Iteration 295:
+Minimum Cost: 1248
+Execution Time: 0.00026345252990722656 seconds
+------------------------------
+Iteration 296:
+Minimum Cost: 1248
+Execution Time: 0.00027632713317871094 seconds
+------------------------------
+Iteration 297:
+Minimum Cost: 1248
+Execution Time: 0.0002644062042236328 seconds
+------------------------------
+Iteration 298:
+Minimum Cost: 1248
+Execution Time: 0.0002608299255371094 seconds
+------------------------------
+Iteration 299:
+Minimum Cost: 1248
+Execution Time: 0.0002593994140625 seconds
+------------------------------
+Iteration 300:
+Minimum Cost: 1248
+Execution Time: 0.00026106834411621094 seconds
+------------------------------
+Iteration 301:
+Minimum Cost: 1248
+Execution Time: 0.0002644062042236328 seconds
+------------------------------
+Iteration 302:
+Minimum Cost: 1248
+Execution Time: 0.00026297569274902344 seconds
+------------------------------
+Iteration 303:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 304:
+Minimum Cost: 1248
+Execution Time: 0.00026035308837890625 seconds
+------------------------------
+Iteration 305:
+Minimum Cost: 1248
+Execution Time: 0.0002644062042236328 seconds
+------------------------------
+Iteration 306:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 307:
+Minimum Cost: 1248
+Execution Time: 0.0002624988555908203 seconds
+------------------------------
+Iteration 308:
+Minimum Cost: 1248
+Execution Time: 0.0002682209014892578 seconds
+------------------------------
+Iteration 309:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 310:
+Minimum Cost: 1248
+Execution Time: 0.0002593994140625 seconds
+------------------------------
+Iteration 311:
+Minimum Cost: 1248
+Execution Time: 0.00025916099548339844 seconds
+------------------------------
+Iteration 312:
+Minimum Cost: 1248
+Execution Time: 0.0002579689025878906 seconds
+------------------------------
+Iteration 313:
+Minimum Cost: 1248
+Execution Time: 0.0002593994140625 seconds
+------------------------------
+Iteration 314:
+Minimum Cost: 1248
+Execution Time: 0.00026106834411621094 seconds
+------------------------------
+Iteration 315:
+Minimum Cost: 1248
+Execution Time: 0.00025916099548339844 seconds
+------------------------------
+Iteration 316:
+Minimum Cost: 1248
+Execution Time: 0.0002582073211669922 seconds
+------------------------------
+Iteration 317:
+Minimum Cost: 1248
+Execution Time: 0.0002593994140625 seconds
+------------------------------
+Iteration 318:
+Minimum Cost: 1248
+Execution Time: 0.00026154518127441406 seconds
+------------------------------
+Iteration 319:
+Minimum Cost: 1248
+Execution Time: 0.0002627372741699219 seconds
+------------------------------
+Iteration 320:
+Minimum Cost: 1248
+Execution Time: 0.00028395652770996094 seconds
+------------------------------
+Iteration 321:
+Minimum Cost: 1248
+Execution Time: 0.0002627372741699219 seconds
+------------------------------
+Iteration 322:
+Minimum Cost: 1248
+Execution Time: 0.00025963783264160156 seconds
+------------------------------
+Iteration 323:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 324:
+Minimum Cost: 1248
+Execution Time: 0.0002574920654296875 seconds
+------------------------------
+Iteration 325:
+Minimum Cost: 1248
+Execution Time: 0.0002574920654296875 seconds
+------------------------------
+Iteration 326:
+Minimum Cost: 1248
+Execution Time: 0.00026106834411621094 seconds
+------------------------------
+Iteration 327:
+Minimum Cost: 1248
+Execution Time: 0.0003387928009033203 seconds
+------------------------------
+Iteration 328:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 329:
+Minimum Cost: 1248
+Execution Time: 0.00026488304138183594 seconds
+------------------------------
+Iteration 330:
+Minimum Cost: 1248
+Execution Time: 0.00025725364685058594 seconds
+------------------------------
+Iteration 331:
+Minimum Cost: 1248
+Execution Time: 0.00025773048400878906 seconds
+------------------------------
+Iteration 332:
+Minimum Cost: 1248
+Execution Time: 0.0002696514129638672 seconds
+------------------------------
+Iteration 333:
+Minimum Cost: 1248
+Execution Time: 0.0002586841583251953 seconds
+------------------------------
+Iteration 334:
+Minimum Cost: 1248
+Execution Time: 0.00026035308837890625 seconds
+------------------------------
+Iteration 335:
+Minimum Cost: 1248
+Execution Time: 0.0002624988555908203 seconds
+------------------------------
+Iteration 336:
+Minimum Cost: 1248
+Execution Time: 0.0002639293670654297 seconds
+------------------------------
+Iteration 337:
+Minimum Cost: 1248
+Execution Time: 0.0002601146697998047 seconds
+------------------------------
+Iteration 338:
+Minimum Cost: 1248
+Execution Time: 0.00026106834411621094 seconds
+------------------------------
+Iteration 339:
+Minimum Cost: 1248
+Execution Time: 0.0002601146697998047 seconds
+------------------------------
+Iteration 340:
+Minimum Cost: 1248
+Execution Time: 0.0002624988555908203 seconds
+------------------------------
+Iteration 341:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 342:
+Minimum Cost: 1248
+Execution Time: 0.000263214111328125 seconds
+------------------------------
+Iteration 343:
+Minimum Cost: 1248
+Execution Time: 0.0002646446228027344 seconds
+------------------------------
+Iteration 344:
+Minimum Cost: 1248
+Execution Time: 0.00028395652770996094 seconds
+------------------------------
+Iteration 345:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 346:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 347:
+Minimum Cost: 1248
+Execution Time: 0.000263214111328125 seconds
+------------------------------
+Iteration 348:
+Minimum Cost: 1248
+Execution Time: 0.00026154518127441406 seconds
+------------------------------
+Iteration 349:
+Minimum Cost: 1248
+Execution Time: 0.0002598762512207031 seconds
+------------------------------
+Iteration 350:
+Minimum Cost: 1248
+Execution Time: 0.00026702880859375 seconds
+------------------------------
+Iteration 351:
+Minimum Cost: 1248
+Execution Time: 0.00026297569274902344 seconds
+------------------------------
+Iteration 352:
+Minimum Cost: 1248
+Execution Time: 0.0002655982971191406 seconds
+------------------------------
+Iteration 353:
+Minimum Cost: 1248
+Execution Time: 0.00026154518127441406 seconds
+------------------------------
+Iteration 354:
+Minimum Cost: 1248
+Execution Time: 0.00026106834411621094 seconds
+------------------------------
+Iteration 355:
+Minimum Cost: 1248
+Execution Time: 0.0002627372741699219 seconds
+------------------------------
+Iteration 356:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 357:
+Minimum Cost: 1248
+Execution Time: 0.00027251243591308594 seconds
+------------------------------
+Iteration 358:
+Minimum Cost: 1248
+Execution Time: 0.000263214111328125 seconds
+------------------------------
+Iteration 359:
+Minimum Cost: 1248
+Execution Time: 0.0002665519714355469 seconds
+------------------------------
+Iteration 360:
+Minimum Cost: 1248
+Execution Time: 0.0002646446228027344 seconds
+------------------------------
+Iteration 361:
+Minimum Cost: 1248
+Execution Time: 0.0002636909484863281 seconds
+------------------------------
+Iteration 362:
+Minimum Cost: 1248
+Execution Time: 0.0002646446228027344 seconds
+------------------------------
+Iteration 363:
+Minimum Cost: 1248
+Execution Time: 0.00026416778564453125 seconds
+------------------------------
+Iteration 364:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 365:
+Minimum Cost: 1248
+Execution Time: 0.0002582073211669922 seconds
+------------------------------
+Iteration 366:
+Minimum Cost: 1248
+Execution Time: 0.00025725364685058594 seconds
+------------------------------
+Iteration 367:
+Minimum Cost: 1248
+Execution Time: 0.00026297569274902344 seconds
+------------------------------
+Iteration 368:
+Minimum Cost: 1248
+Execution Time: 0.0002627372741699219 seconds
+------------------------------
+Iteration 369:
+Minimum Cost: 1248
+Execution Time: 0.00026917457580566406 seconds
+------------------------------
+Iteration 370:
+Minimum Cost: 1248
+Execution Time: 0.00025916099548339844 seconds
+------------------------------
+Iteration 371:
+Minimum Cost: 1248
+Execution Time: 0.00027251243591308594 seconds
+------------------------------
+Iteration 372:
+Minimum Cost: 1248
+Execution Time: 0.0003414154052734375 seconds
+------------------------------
+Iteration 373:
+Minimum Cost: 1248
+Execution Time: 0.00026416778564453125 seconds
+------------------------------
+Iteration 374:
+Minimum Cost: 1248
+Execution Time: 0.00026869773864746094 seconds
+------------------------------
+Iteration 375:
+Minimum Cost: 1248
+Execution Time: 0.0002658367156982422 seconds
+------------------------------
+Iteration 376:
+Minimum Cost: 1248
+Execution Time: 0.00026535987854003906 seconds
+------------------------------
+Iteration 377:
+Minimum Cost: 1248
+Execution Time: 0.0002646446228027344 seconds
+------------------------------
+Iteration 378:
+Minimum Cost: 1248
+Execution Time: 0.0002624988555908203 seconds
+------------------------------
+Iteration 379:
+Minimum Cost: 1248
+Execution Time: 0.0002644062042236328 seconds
+------------------------------
+Iteration 380:
+Minimum Cost: 1248
+Execution Time: 0.0002663135528564453 seconds
+------------------------------
+Iteration 381:
+Minimum Cost: 1248
+Execution Time: 0.00027489662170410156 seconds
+------------------------------
+Iteration 382:
+Minimum Cost: 1248
+Execution Time: 0.000263214111328125 seconds
+------------------------------
+Iteration 383:
+Minimum Cost: 1248
+Execution Time: 0.0002655982971191406 seconds
+------------------------------
+Iteration 384:
+Minimum Cost: 1248
+Execution Time: 0.0002620220184326172 seconds
+------------------------------
+Iteration 385:
+Minimum Cost: 1248
+Execution Time: 0.000263214111328125 seconds
+------------------------------
+Iteration 386:
+Minimum Cost: 1248
+Execution Time: 0.00026488304138183594 seconds
+------------------------------
+Iteration 387:
+Minimum Cost: 1248
+Execution Time: 0.0002639293670654297 seconds
+------------------------------
+Iteration 388:
+Minimum Cost: 1248
+Execution Time: 0.00026297569274902344 seconds
+------------------------------
+Iteration 389:
+Minimum Cost: 1248
+Execution Time: 0.00025916099548339844 seconds
+------------------------------
+Iteration 390:
+Minimum Cost: 1248
+Execution Time: 0.0002620220184326172 seconds
+------------------------------
+Iteration 391:
+Minimum Cost: 1248
+Execution Time: 0.0002663135528564453 seconds
+------------------------------
+Iteration 392:
+Minimum Cost: 1248
+Execution Time: 0.000263214111328125 seconds
+------------------------------
+Iteration 393:
+Minimum Cost: 1248
+Execution Time: 0.0002715587615966797 seconds
+------------------------------
+Iteration 394:
+Minimum Cost: 1248
+Execution Time: 0.0002655982971191406 seconds
+------------------------------
+Iteration 395:
+Minimum Cost: 1248
+Execution Time: 0.00026988983154296875 seconds
+------------------------------
+Iteration 396:
+Minimum Cost: 1248
+Execution Time: 0.0002601146697998047 seconds
+------------------------------
+Iteration 397:
+Minimum Cost: 1248
+Execution Time: 0.00026106834411621094 seconds
+------------------------------
+Iteration 398:
+Minimum Cost: 1248
+Execution Time: 0.0002593994140625 seconds
+------------------------------
+Iteration 399:
+Minimum Cost: 1248
+Execution Time: 0.00025963783264160156 seconds
+------------------------------
+Iteration 400:
+Minimum Cost: 1248
+Execution Time: 0.0002627372741699219 seconds
+------------------------------
+Iteration 401:
+Minimum Cost: 1248
+Execution Time: 0.00026035308837890625 seconds
+------------------------------
+Iteration 402:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 403:
+Minimum Cost: 1248
+Execution Time: 0.00026106834411621094 seconds
+------------------------------
+Iteration 404:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 405:
+Minimum Cost: 1248
+Execution Time: 0.0002598762512207031 seconds
+------------------------------
+Iteration 406:
+Minimum Cost: 1248
+Execution Time: 0.0002734661102294922 seconds
+------------------------------
+Iteration 407:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 408:
+Minimum Cost: 1248
+Execution Time: 0.0002655982971191406 seconds
+------------------------------
+Iteration 409:
+Minimum Cost: 1248
+Execution Time: 0.00025844573974609375 seconds
+------------------------------
+Iteration 410:
+Minimum Cost: 1248
+Execution Time: 0.0002560615539550781 seconds
+------------------------------
+Iteration 411:
+Minimum Cost: 1248
+Execution Time: 0.0002567768096923828 seconds
+------------------------------
+Iteration 412:
+Minimum Cost: 1248
+Execution Time: 0.00026297569274902344 seconds
+------------------------------
+Iteration 413:
+Minimum Cost: 1248
+Execution Time: 0.0002598762512207031 seconds
+------------------------------
+Iteration 414:
+Minimum Cost: 1248
+Execution Time: 0.00025916099548339844 seconds
+------------------------------
+Iteration 415:
+Minimum Cost: 1248
+Execution Time: 0.0002586841583251953 seconds
+------------------------------
+Iteration 416:
+Minimum Cost: 1248
+Execution Time: 0.00026297569274902344 seconds
+------------------------------
+Iteration 417:
+Minimum Cost: 1248
+Execution Time: 0.00040459632873535156 seconds
+------------------------------
+Iteration 418:
+Minimum Cost: 1248
+Execution Time: 0.0003376007080078125 seconds
+------------------------------
+Iteration 419:
+Minimum Cost: 1248
+Execution Time: 0.000263214111328125 seconds
+------------------------------
+Iteration 420:
+Minimum Cost: 1248
+Execution Time: 0.00025963783264160156 seconds
+------------------------------
+Iteration 421:
+Minimum Cost: 1248
+Execution Time: 0.00026035308837890625 seconds
+------------------------------
+Iteration 422:
+Minimum Cost: 1248
+Execution Time: 0.00029969215393066406 seconds
+------------------------------
+Iteration 423:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 424:
+Minimum Cost: 1248
+Execution Time: 0.0002589225769042969 seconds
+------------------------------
+Iteration 425:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 426:
+Minimum Cost: 1248
+Execution Time: 0.00026297569274902344 seconds
+------------------------------
+Iteration 427:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 428:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 429:
+Minimum Cost: 1248
+Execution Time: 0.00026154518127441406 seconds
+------------------------------
+Iteration 430:
+Minimum Cost: 1248
+Execution Time: 0.0002636909484863281 seconds
+------------------------------
+Iteration 431:
+Minimum Cost: 1248
+Execution Time: 0.0002627372741699219 seconds
+------------------------------
+Iteration 432:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 433:
+Minimum Cost: 1248
+Execution Time: 0.0002689361572265625 seconds
+------------------------------
+Iteration 434:
+Minimum Cost: 1248
+Execution Time: 0.00026535987854003906 seconds
+------------------------------
+Iteration 435:
+Minimum Cost: 1248
+Execution Time: 0.00025963783264160156 seconds
+------------------------------
+Iteration 436:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 437:
+Minimum Cost: 1248
+Execution Time: 0.0002624988555908203 seconds
+------------------------------
+Iteration 438:
+Minimum Cost: 1248
+Execution Time: 0.0002624988555908203 seconds
+------------------------------
+Iteration 439:
+Minimum Cost: 1248
+Execution Time: 0.0002608299255371094 seconds
+------------------------------
+Iteration 440:
+Minimum Cost: 1248
+Execution Time: 0.00026726722717285156 seconds
+------------------------------
+Iteration 441:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 442:
+Minimum Cost: 1248
+Execution Time: 0.00026798248291015625 seconds
+------------------------------
+Iteration 443:
+Minimum Cost: 1248
+Execution Time: 0.00026154518127441406 seconds
+------------------------------
+Iteration 444:
+Minimum Cost: 1248
+Execution Time: 0.00025916099548339844 seconds
+------------------------------
+Iteration 445:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 446:
+Minimum Cost: 1248
+Execution Time: 0.00026154518127441406 seconds
+------------------------------
+Iteration 447:
+Minimum Cost: 1248
+Execution Time: 0.00026106834411621094 seconds
+------------------------------
+Iteration 448:
+Minimum Cost: 1248
+Execution Time: 0.0002593994140625 seconds
+------------------------------
+Iteration 449:
+Minimum Cost: 1248
+Execution Time: 0.000263214111328125 seconds
+------------------------------
+Iteration 450:
+Minimum Cost: 1248
+Execution Time: 0.00026106834411621094 seconds
+------------------------------
+Iteration 451:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 452:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 453:
+Minimum Cost: 1248
+Execution Time: 0.0002608299255371094 seconds
+------------------------------
+Iteration 454:
+Minimum Cost: 1248
+Execution Time: 0.0002689361572265625 seconds
+------------------------------
+Iteration 455:
+Minimum Cost: 1248
+Execution Time: 0.0002589225769042969 seconds
+------------------------------
+Iteration 456:
+Minimum Cost: 1248
+Execution Time: 0.0002636909484863281 seconds
+------------------------------
+Iteration 457:
+Minimum Cost: 1248
+Execution Time: 0.0002601146697998047 seconds
+------------------------------
+Iteration 458:
+Minimum Cost: 1248
+Execution Time: 0.00026035308837890625 seconds
+------------------------------
+Iteration 459:
+Minimum Cost: 1248
+Execution Time: 0.00025844573974609375 seconds
+------------------------------
+Iteration 460:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 461:
+Minimum Cost: 1248
+Execution Time: 0.0002579689025878906 seconds
+------------------------------
+Iteration 462:
+Minimum Cost: 1248
+Execution Time: 0.0004954338073730469 seconds
+------------------------------
+Iteration 463:
+Minimum Cost: 1248
+Execution Time: 0.0002658367156982422 seconds
+------------------------------
+Iteration 464:
+Minimum Cost: 1248
+Execution Time: 0.0002715587615966797 seconds
+------------------------------
+Iteration 465:
+Minimum Cost: 1248
+Execution Time: 0.0002770423889160156 seconds
+------------------------------
+Iteration 466:
+Minimum Cost: 1248
+Execution Time: 0.0002732276916503906 seconds
+------------------------------
+Iteration 467:
+Minimum Cost: 1248
+Execution Time: 0.0002713203430175781 seconds
+------------------------------
+Iteration 468:
+Minimum Cost: 1248
+Execution Time: 0.0002727508544921875 seconds
+------------------------------
+Iteration 469:
+Minimum Cost: 1248
+Execution Time: 0.0002689361572265625 seconds
+------------------------------
+Iteration 470:
+Minimum Cost: 1248
+Execution Time: 0.000274658203125 seconds
+------------------------------
+Iteration 471:
+Minimum Cost: 1248
+Execution Time: 0.00026607513427734375 seconds
+------------------------------
+Iteration 472:
+Minimum Cost: 1248
+Execution Time: 0.00026702880859375 seconds
+------------------------------
+Iteration 473:
+Minimum Cost: 1248
+Execution Time: 0.0002646446228027344 seconds
+------------------------------
+Iteration 474:
+Minimum Cost: 1248
+Execution Time: 0.00026416778564453125 seconds
+------------------------------
+Iteration 475:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 476:
+Minimum Cost: 1248
+Execution Time: 0.00026345252990722656 seconds
+------------------------------
+Iteration 477:
+Minimum Cost: 1248
+Execution Time: 0.00026106834411621094 seconds
+------------------------------
+Iteration 478:
+Minimum Cost: 1248
+Execution Time: 0.00026869773864746094 seconds
+------------------------------
+Iteration 479:
+Minimum Cost: 1248
+Execution Time: 0.0002624988555908203 seconds
+------------------------------
+Iteration 480:
+Minimum Cost: 1248
+Execution Time: 0.0002620220184326172 seconds
+------------------------------
+Iteration 481:
+Minimum Cost: 1248
+Execution Time: 0.000263214111328125 seconds
+------------------------------
+Iteration 482:
+Minimum Cost: 1248
+Execution Time: 0.00026035308837890625 seconds
+------------------------------
+Iteration 483:
+Minimum Cost: 1248
+Execution Time: 0.0002646446228027344 seconds
+------------------------------
+Iteration 484:
+Minimum Cost: 1248
+Execution Time: 0.0002624988555908203 seconds
+------------------------------
+Iteration 485:
+Minimum Cost: 1248
+Execution Time: 0.0002651214599609375 seconds
+------------------------------
+Iteration 486:
+Minimum Cost: 1248
+Execution Time: 0.0002598762512207031 seconds
+------------------------------
+Iteration 487:
+Minimum Cost: 1248
+Execution Time: 0.00026535987854003906 seconds
+------------------------------
+Iteration 488:
+Minimum Cost: 1248
+Execution Time: 0.00026154518127441406 seconds
+------------------------------
+Iteration 489:
+Minimum Cost: 1248
+Execution Time: 0.00026607513427734375 seconds
+------------------------------
+Iteration 490:
+Minimum Cost: 1248
+Execution Time: 0.00027561187744140625 seconds
+------------------------------
+Iteration 491:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 492:
+Minimum Cost: 1248
+Execution Time: 0.0002593994140625 seconds
+------------------------------
+Iteration 493:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 494:
+Minimum Cost: 1248
+Execution Time: 0.00026035308837890625 seconds
+------------------------------
+Iteration 495:
+Minimum Cost: 1248
+Execution Time: 0.00026488304138183594 seconds
+------------------------------
+Iteration 496:
+Minimum Cost: 1248
+Execution Time: 0.00026035308837890625 seconds
+------------------------------
+Iteration 497:
+Minimum Cost: 1248
+Execution Time: 0.0002636909484863281 seconds
+------------------------------
+Iteration 498:
+Minimum Cost: 1248
+Execution Time: 0.0002593994140625 seconds
+------------------------------
+Iteration 499:
+Minimum Cost: 1248
+Execution Time: 0.0002608299255371094 seconds
+------------------------------
+Iteration 500:
+Minimum Cost: 1248
+Execution Time: 0.0002570152282714844 seconds
+------------------------------
+Iteration 501:
+Minimum Cost: 1248
+Execution Time: 0.00025844573974609375 seconds
+------------------------------
+Iteration 502:
+Minimum Cost: 1248
+Execution Time: 0.0002586841583251953 seconds
+------------------------------
+Iteration 503:
+Minimum Cost: 1248
+Execution Time: 0.0002677440643310547 seconds
+------------------------------
+Iteration 504:
+Minimum Cost: 1248
+Execution Time: 0.0002636909484863281 seconds
+------------------------------
+Iteration 505:
+Minimum Cost: 1248
+Execution Time: 0.0002751350402832031 seconds
+------------------------------
+Iteration 506:
+Minimum Cost: 1248
+Execution Time: 0.0002751350402832031 seconds
+------------------------------
+Iteration 507:
+Minimum Cost: 1248
+Execution Time: 0.0003528594970703125 seconds
+------------------------------
+Iteration 508:
+Minimum Cost: 1248
+Execution Time: 0.00026035308837890625 seconds
+------------------------------
+Iteration 509:
+Minimum Cost: 1248
+Execution Time: 0.0002658367156982422 seconds
+------------------------------
+Iteration 510:
+Minimum Cost: 1248
+Execution Time: 0.0002624988555908203 seconds
+------------------------------
+Iteration 511:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 512:
+Minimum Cost: 1248
+Execution Time: 0.0002589225769042969 seconds
+------------------------------
+Iteration 513:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 514:
+Minimum Cost: 1248
+Execution Time: 0.00026607513427734375 seconds
+------------------------------
+Iteration 515:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 516:
+Minimum Cost: 1248
+Execution Time: 0.0002627372741699219 seconds
+------------------------------
+Iteration 517:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 518:
+Minimum Cost: 1248
+Execution Time: 0.00026035308837890625 seconds
+------------------------------
+Iteration 519:
+Minimum Cost: 1248
+Execution Time: 0.0002620220184326172 seconds
+------------------------------
+Iteration 520:
+Minimum Cost: 1248
+Execution Time: 0.0002624988555908203 seconds
+------------------------------
+Iteration 521:
+Minimum Cost: 1248
+Execution Time: 0.0002608299255371094 seconds
+------------------------------
+Iteration 522:
+Minimum Cost: 1248
+Execution Time: 0.0002651214599609375 seconds
+------------------------------
+Iteration 523:
+Minimum Cost: 1248
+Execution Time: 0.0002665519714355469 seconds
+------------------------------
+Iteration 524:
+Minimum Cost: 1248
+Execution Time: 0.0002627372741699219 seconds
+------------------------------
+Iteration 525:
+Minimum Cost: 1248
+Execution Time: 0.0002627372741699219 seconds
+------------------------------
+Iteration 526:
+Minimum Cost: 1248
+Execution Time: 0.0002658367156982422 seconds
+------------------------------
+Iteration 527:
+Minimum Cost: 1248
+Execution Time: 0.0002765655517578125 seconds
+------------------------------
+Iteration 528:
+Minimum Cost: 1248
+Execution Time: 0.0002644062042236328 seconds
+------------------------------
+Iteration 529:
+Minimum Cost: 1248
+Execution Time: 0.0002620220184326172 seconds
+------------------------------
+Iteration 530:
+Minimum Cost: 1248
+Execution Time: 0.0002608299255371094 seconds
+------------------------------
+Iteration 531:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 532:
+Minimum Cost: 1248
+Execution Time: 0.00026607513427734375 seconds
+------------------------------
+Iteration 533:
+Minimum Cost: 1248
+Execution Time: 0.0002608299255371094 seconds
+------------------------------
+Iteration 534:
+Minimum Cost: 1248
+Execution Time: 0.0002624988555908203 seconds
+------------------------------
+Iteration 535:
+Minimum Cost: 1248
+Execution Time: 0.0002593994140625 seconds
+------------------------------
+Iteration 536:
+Minimum Cost: 1248
+Execution Time: 0.0002608299255371094 seconds
+------------------------------
+Iteration 537:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 538:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 539:
+Minimum Cost: 1248
+Execution Time: 0.0002932548522949219 seconds
+------------------------------
+Iteration 540:
+Minimum Cost: 1248
+Execution Time: 0.0002663135528564453 seconds
+------------------------------
+Iteration 541:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 542:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 543:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 544:
+Minimum Cost: 1248
+Execution Time: 0.00026154518127441406 seconds
+------------------------------
+Iteration 545:
+Minimum Cost: 1248
+Execution Time: 0.0002620220184326172 seconds
+------------------------------
+Iteration 546:
+Minimum Cost: 1248
+Execution Time: 0.00026535987854003906 seconds
+------------------------------
+Iteration 547:
+Minimum Cost: 1248
+Execution Time: 0.00026416778564453125 seconds
+------------------------------
+Iteration 548:
+Minimum Cost: 1248
+Execution Time: 0.0002601146697998047 seconds
+------------------------------
+Iteration 549:
+Minimum Cost: 1248
+Execution Time: 0.0002586841583251953 seconds
+------------------------------
+Iteration 550:
+Minimum Cost: 1248
+Execution Time: 0.0002574920654296875 seconds
+------------------------------
+Iteration 551:
+Minimum Cost: 1248
+Execution Time: 0.0002677440643310547 seconds
+------------------------------
+Iteration 552:
+Minimum Cost: 1248
+Execution Time: 0.00033855438232421875 seconds
+------------------------------
+Iteration 553:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 554:
+Minimum Cost: 1248
+Execution Time: 0.0002682209014892578 seconds
+------------------------------
+Iteration 555:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 556:
+Minimum Cost: 1248
+Execution Time: 0.00026106834411621094 seconds
+------------------------------
+Iteration 557:
+Minimum Cost: 1248
+Execution Time: 0.00026154518127441406 seconds
+------------------------------
+Iteration 558:
+Minimum Cost: 1248
+Execution Time: 0.0002598762512207031 seconds
+------------------------------
+Iteration 559:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 560:
+Minimum Cost: 1248
+Execution Time: 0.00026535987854003906 seconds
+------------------------------
+Iteration 561:
+Minimum Cost: 1248
+Execution Time: 0.0002658367156982422 seconds
+------------------------------
+Iteration 562:
+Minimum Cost: 1248
+Execution Time: 0.0002620220184326172 seconds
+------------------------------
+Iteration 563:
+Minimum Cost: 1248
+Execution Time: 0.0002696514129638672 seconds
+------------------------------
+Iteration 564:
+Minimum Cost: 1248
+Execution Time: 0.00026535987854003906 seconds
+------------------------------
+Iteration 565:
+Minimum Cost: 1248
+Execution Time: 0.0002620220184326172 seconds
+------------------------------
+Iteration 566:
+Minimum Cost: 1248
+Execution Time: 0.0002636909484863281 seconds
+------------------------------
+Iteration 567:
+Minimum Cost: 1248
+Execution Time: 0.00026035308837890625 seconds
+------------------------------
+Iteration 568:
+Minimum Cost: 1248
+Execution Time: 0.0002601146697998047 seconds
+------------------------------
+Iteration 569:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 570:
+Minimum Cost: 1248
+Execution Time: 0.00025963783264160156 seconds
+------------------------------
+Iteration 571:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 572:
+Minimum Cost: 1248
+Execution Time: 0.00026416778564453125 seconds
+------------------------------
+Iteration 573:
+Minimum Cost: 1248
+Execution Time: 0.00026297569274902344 seconds
+------------------------------
+Iteration 574:
+Minimum Cost: 1248
+Execution Time: 0.00026297569274902344 seconds
+------------------------------
+Iteration 575:
+Minimum Cost: 1248
+Execution Time: 0.0002644062042236328 seconds
+------------------------------
+Iteration 576:
+Minimum Cost: 1248
+Execution Time: 0.00026726722717285156 seconds
+------------------------------
+Iteration 577:
+Minimum Cost: 1248
+Execution Time: 0.0002644062042236328 seconds
+------------------------------
+Iteration 578:
+Minimum Cost: 1248
+Execution Time: 0.00026154518127441406 seconds
+------------------------------
+Iteration 579:
+Minimum Cost: 1248
+Execution Time: 0.0002598762512207031 seconds
+------------------------------
+Iteration 580:
+Minimum Cost: 1248
+Execution Time: 0.0002627372741699219 seconds
+------------------------------
+Iteration 581:
+Minimum Cost: 1248
+Execution Time: 0.00026035308837890625 seconds
+------------------------------
+Iteration 582:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 583:
+Minimum Cost: 1248
+Execution Time: 0.0002601146697998047 seconds
+------------------------------
+Iteration 584:
+Minimum Cost: 1248
+Execution Time: 0.0002608299255371094 seconds
+------------------------------
+Iteration 585:
+Minimum Cost: 1248
+Execution Time: 0.0002639293670654297 seconds
+------------------------------
+Iteration 586:
+Minimum Cost: 1248
+Execution Time: 0.0002627372741699219 seconds
+------------------------------
+Iteration 587:
+Minimum Cost: 1248
+Execution Time: 0.0002589225769042969 seconds
+------------------------------
+Iteration 588:
+Minimum Cost: 1248
+Execution Time: 0.0002741813659667969 seconds
+------------------------------
+Iteration 589:
+Minimum Cost: 1248
+Execution Time: 0.0002620220184326172 seconds
+------------------------------
+Iteration 590:
+Minimum Cost: 1248
+Execution Time: 0.0002646446228027344 seconds
+------------------------------
+Iteration 591:
+Minimum Cost: 1248
+Execution Time: 0.00026106834411621094 seconds
+------------------------------
+Iteration 592:
+Minimum Cost: 1248
+Execution Time: 0.00026035308837890625 seconds
+------------------------------
+Iteration 593:
+Minimum Cost: 1248
+Execution Time: 0.00026106834411621094 seconds
+------------------------------
+Iteration 594:
+Minimum Cost: 1248
+Execution Time: 0.00026035308837890625 seconds
+------------------------------
+Iteration 595:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 596:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 597:
+Minimum Cost: 1248
+Execution Time: 0.0003380775451660156 seconds
+------------------------------
+Iteration 598:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 599:
+Minimum Cost: 1248
+Execution Time: 0.0002684593200683594 seconds
+------------------------------
+Iteration 600:
+Minimum Cost: 1248
+Execution Time: 0.00027370452880859375 seconds
+------------------------------
+Iteration 601:
+Minimum Cost: 1248
+Execution Time: 0.0002624988555908203 seconds
+------------------------------
+Iteration 602:
+Minimum Cost: 1248
+Execution Time: 0.0002624988555908203 seconds
+------------------------------
+Iteration 603:
+Minimum Cost: 1248
+Execution Time: 0.0002579689025878906 seconds
+------------------------------
+Iteration 604:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 605:
+Minimum Cost: 1248
+Execution Time: 0.0002601146697998047 seconds
+------------------------------
+Iteration 606:
+Minimum Cost: 1248
+Execution Time: 0.0002620220184326172 seconds
+------------------------------
+Iteration 607:
+Minimum Cost: 1248
+Execution Time: 0.00026154518127441406 seconds
+------------------------------
+Iteration 608:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 609:
+Minimum Cost: 1248
+Execution Time: 0.0002608299255371094 seconds
+------------------------------
+Iteration 610:
+Minimum Cost: 1248
+Execution Time: 0.0002620220184326172 seconds
+------------------------------
+Iteration 611:
+Minimum Cost: 1248
+Execution Time: 0.000263214111328125 seconds
+------------------------------
+Iteration 612:
+Minimum Cost: 1248
+Execution Time: 0.0002608299255371094 seconds
+------------------------------
+Iteration 613:
+Minimum Cost: 1248
+Execution Time: 0.00026726722717285156 seconds
+------------------------------
+Iteration 614:
+Minimum Cost: 1248
+Execution Time: 0.00026416778564453125 seconds
+------------------------------
+Iteration 615:
+Minimum Cost: 1248
+Execution Time: 0.00026297569274902344 seconds
+------------------------------
+Iteration 616:
+Minimum Cost: 1248
+Execution Time: 0.0002644062042236328 seconds
+------------------------------
+Iteration 617:
+Minimum Cost: 1248
+Execution Time: 0.00026106834411621094 seconds
+------------------------------
+Iteration 618:
+Minimum Cost: 1248
+Execution Time: 0.00026488304138183594 seconds
+------------------------------
+Iteration 619:
+Minimum Cost: 1248
+Execution Time: 0.00026488304138183594 seconds
+------------------------------
+Iteration 620:
+Minimum Cost: 1248
+Execution Time: 0.0002608299255371094 seconds
+------------------------------
+Iteration 621:
+Minimum Cost: 1248
+Execution Time: 0.00026488304138183594 seconds
+------------------------------
+Iteration 622:
+Minimum Cost: 1248
+Execution Time: 0.0002624988555908203 seconds
+------------------------------
+Iteration 623:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 624:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 625:
+Minimum Cost: 1248
+Execution Time: 0.00027298927307128906 seconds
+------------------------------
+Iteration 626:
+Minimum Cost: 1248
+Execution Time: 0.0002608299255371094 seconds
+------------------------------
+Iteration 627:
+Minimum Cost: 1248
+Execution Time: 0.0002644062042236328 seconds
+------------------------------
+Iteration 628:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 629:
+Minimum Cost: 1248
+Execution Time: 0.0002639293670654297 seconds
+------------------------------
+Iteration 630:
+Minimum Cost: 1248
+Execution Time: 0.0002639293670654297 seconds
+------------------------------
+Iteration 631:
+Minimum Cost: 1248
+Execution Time: 0.00029587745666503906 seconds
+------------------------------
+Iteration 632:
+Minimum Cost: 1248
+Execution Time: 0.00026535987854003906 seconds
+------------------------------
+Iteration 633:
+Minimum Cost: 1248
+Execution Time: 0.00026106834411621094 seconds
+------------------------------
+Iteration 634:
+Minimum Cost: 1248
+Execution Time: 0.0002601146697998047 seconds
+------------------------------
+Iteration 635:
+Minimum Cost: 1248
+Execution Time: 0.00026106834411621094 seconds
+------------------------------
+Iteration 636:
+Minimum Cost: 1248
+Execution Time: 0.0002586841583251953 seconds
+------------------------------
+Iteration 637:
+Minimum Cost: 1248
+Execution Time: 0.0002894401550292969 seconds
+------------------------------
+Iteration 638:
+Minimum Cost: 1248
+Execution Time: 0.00025916099548339844 seconds
+------------------------------
+Iteration 639:
+Minimum Cost: 1248
+Execution Time: 0.000263214111328125 seconds
+------------------------------
+Iteration 640:
+Minimum Cost: 1248
+Execution Time: 0.00025916099548339844 seconds
+------------------------------
+Iteration 641:
+Minimum Cost: 1248
+Execution Time: 0.0002598762512207031 seconds
+------------------------------
+Iteration 642:
+Minimum Cost: 1248
+Execution Time: 0.00034236907958984375 seconds
+------------------------------
+Iteration 643:
+Minimum Cost: 1248
+Execution Time: 0.0002639293670654297 seconds
+------------------------------
+Iteration 644:
+Minimum Cost: 1248
+Execution Time: 0.00026869773864746094 seconds
+------------------------------
+Iteration 645:
+Minimum Cost: 1248
+Execution Time: 0.00025916099548339844 seconds
+------------------------------
+Iteration 646:
+Minimum Cost: 1248
+Execution Time: 0.0002598762512207031 seconds
+------------------------------
+Iteration 647:
+Minimum Cost: 1248
+Execution Time: 0.00026106834411621094 seconds
+------------------------------
+Iteration 648:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 649:
+Minimum Cost: 1248
+Execution Time: 0.00026869773864746094 seconds
+------------------------------
+Iteration 650:
+Minimum Cost: 1248
+Execution Time: 0.0002627372741699219 seconds
+------------------------------
+Iteration 651:
+Minimum Cost: 1248
+Execution Time: 0.00026535987854003906 seconds
+------------------------------
+Iteration 652:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 653:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 654:
+Minimum Cost: 1248
+Execution Time: 0.0002589225769042969 seconds
+------------------------------
+Iteration 655:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 656:
+Minimum Cost: 1248
+Execution Time: 0.0002627372741699219 seconds
+------------------------------
+Iteration 657:
+Minimum Cost: 1248
+Execution Time: 0.00026106834411621094 seconds
+------------------------------
+Iteration 658:
+Minimum Cost: 1248
+Execution Time: 0.00025963783264160156 seconds
+------------------------------
+Iteration 659:
+Minimum Cost: 1248
+Execution Time: 0.00026106834411621094 seconds
+------------------------------
+Iteration 660:
+Minimum Cost: 1248
+Execution Time: 0.0002586841583251953 seconds
+------------------------------
+Iteration 661:
+Minimum Cost: 1248
+Execution Time: 0.00026798248291015625 seconds
+------------------------------
+Iteration 662:
+Minimum Cost: 1248
+Execution Time: 0.0002636909484863281 seconds
+------------------------------
+Iteration 663:
+Minimum Cost: 1248
+Execution Time: 0.0002636909484863281 seconds
+------------------------------
+Iteration 664:
+Minimum Cost: 1248
+Execution Time: 0.0002598762512207031 seconds
+------------------------------
+Iteration 665:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 666:
+Minimum Cost: 1248
+Execution Time: 0.0002658367156982422 seconds
+------------------------------
+Iteration 667:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 668:
+Minimum Cost: 1248
+Execution Time: 0.0002601146697998047 seconds
+------------------------------
+Iteration 669:
+Minimum Cost: 1248
+Execution Time: 0.0002627372741699219 seconds
+------------------------------
+Iteration 670:
+Minimum Cost: 1248
+Execution Time: 0.0002639293670654297 seconds
+------------------------------
+Iteration 671:
+Minimum Cost: 1248
+Execution Time: 0.0002601146697998047 seconds
+------------------------------
+Iteration 672:
+Minimum Cost: 1248
+Execution Time: 0.00026106834411621094 seconds
+------------------------------
+Iteration 673:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 674:
+Minimum Cost: 1248
+Execution Time: 0.0002701282501220703 seconds
+------------------------------
+Iteration 675:
+Minimum Cost: 1248
+Execution Time: 0.00026106834411621094 seconds
+------------------------------
+Iteration 676:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 677:
+Minimum Cost: 1248
+Execution Time: 0.0002608299255371094 seconds
+------------------------------
+Iteration 678:
+Minimum Cost: 1248
+Execution Time: 0.00025963783264160156 seconds
+------------------------------
+Iteration 679:
+Minimum Cost: 1248
+Execution Time: 0.00026416778564453125 seconds
+------------------------------
+Iteration 680:
+Minimum Cost: 1248
+Execution Time: 0.00026154518127441406 seconds
+------------------------------
+Iteration 681:
+Minimum Cost: 1248
+Execution Time: 0.00026416778564453125 seconds
+------------------------------
+Iteration 682:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 683:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 684:
+Minimum Cost: 1248
+Execution Time: 0.0002567768096923828 seconds
+------------------------------
+Iteration 685:
+Minimum Cost: 1248
+Execution Time: 0.0002582073211669922 seconds
+------------------------------
+Iteration 686:
+Minimum Cost: 1248
+Execution Time: 0.0002982616424560547 seconds
+------------------------------
+Iteration 687:
+Minimum Cost: 1248
+Execution Time: 0.00034427642822265625 seconds
+------------------------------
+Iteration 688:
+Minimum Cost: 1248
+Execution Time: 0.0002639293670654297 seconds
+------------------------------
+Iteration 689:
+Minimum Cost: 1248
+Execution Time: 0.0002663135528564453 seconds
+------------------------------
+Iteration 690:
+Minimum Cost: 1248
+Execution Time: 0.0002644062042236328 seconds
+------------------------------
+Iteration 691:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 692:
+Minimum Cost: 1248
+Execution Time: 0.00026035308837890625 seconds
+------------------------------
+Iteration 693:
+Minimum Cost: 1248
+Execution Time: 0.00026106834411621094 seconds
+------------------------------
+Iteration 694:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 695:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 696:
+Minimum Cost: 1248
+Execution Time: 0.00026106834411621094 seconds
+------------------------------
+Iteration 697:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 698:
+Minimum Cost: 1248
+Execution Time: 0.00026798248291015625 seconds
+------------------------------
+Iteration 699:
+Minimum Cost: 1248
+Execution Time: 0.00026679039001464844 seconds
+------------------------------
+Iteration 700:
+Minimum Cost: 1248
+Execution Time: 0.0002658367156982422 seconds
+------------------------------
+Iteration 701:
+Minimum Cost: 1248
+Execution Time: 0.00026345252990722656 seconds
+------------------------------
+Iteration 702:
+Minimum Cost: 1248
+Execution Time: 0.0002644062042236328 seconds
+------------------------------
+Iteration 703:
+Minimum Cost: 1248
+Execution Time: 0.00026607513427734375 seconds
+------------------------------
+Iteration 704:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 705:
+Minimum Cost: 1248
+Execution Time: 0.00026535987854003906 seconds
+------------------------------
+Iteration 706:
+Minimum Cost: 1248
+Execution Time: 0.0002994537353515625 seconds
+------------------------------
+Iteration 707:
+Minimum Cost: 1248
+Execution Time: 0.00026297569274902344 seconds
+------------------------------
+Iteration 708:
+Minimum Cost: 1248
+Execution Time: 0.0002639293670654297 seconds
+------------------------------
+Iteration 709:
+Minimum Cost: 1248
+Execution Time: 0.0002601146697998047 seconds
+------------------------------
+Iteration 710:
+Minimum Cost: 1248
+Execution Time: 0.0002880096435546875 seconds
+------------------------------
+Iteration 711:
+Minimum Cost: 1248
+Execution Time: 0.0002696514129638672 seconds
+------------------------------
+Iteration 712:
+Minimum Cost: 1248
+Execution Time: 0.00026535987854003906 seconds
+------------------------------
+Iteration 713:
+Minimum Cost: 1248
+Execution Time: 0.00027108192443847656 seconds
+------------------------------
+Iteration 714:
+Minimum Cost: 1248
+Execution Time: 0.000270843505859375 seconds
+------------------------------
+Iteration 715:
+Minimum Cost: 1248
+Execution Time: 0.00026488304138183594 seconds
+------------------------------
+Iteration 716:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 717:
+Minimum Cost: 1248
+Execution Time: 0.0002598762512207031 seconds
+------------------------------
+Iteration 718:
+Minimum Cost: 1248
+Execution Time: 0.0002620220184326172 seconds
+------------------------------
+Iteration 719:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 720:
+Minimum Cost: 1248
+Execution Time: 0.0002636909484863281 seconds
+------------------------------
+Iteration 721:
+Minimum Cost: 1248
+Execution Time: 0.0002627372741699219 seconds
+------------------------------
+Iteration 722:
+Minimum Cost: 1248
+Execution Time: 0.0002694129943847656 seconds
+------------------------------
+Iteration 723:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 724:
+Minimum Cost: 1248
+Execution Time: 0.0002624988555908203 seconds
+------------------------------
+Iteration 725:
+Minimum Cost: 1248
+Execution Time: 0.0002644062042236328 seconds
+------------------------------
+Iteration 726:
+Minimum Cost: 1248
+Execution Time: 0.0002586841583251953 seconds
+------------------------------
+Iteration 727:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 728:
+Minimum Cost: 1248
+Execution Time: 0.00025963783264160156 seconds
+------------------------------
+Iteration 729:
+Minimum Cost: 1248
+Execution Time: 0.0002567768096923828 seconds
+------------------------------
+Iteration 730:
+Minimum Cost: 1248
+Execution Time: 0.0002579689025878906 seconds
+------------------------------
+Iteration 731:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 732:
+Minimum Cost: 1248
+Execution Time: 0.0003407001495361328 seconds
+------------------------------
+Iteration 733:
+Minimum Cost: 1248
+Execution Time: 0.0002624988555908203 seconds
+------------------------------
+Iteration 734:
+Minimum Cost: 1248
+Execution Time: 0.0002760887145996094 seconds
+------------------------------
+Iteration 735:
+Minimum Cost: 1248
+Execution Time: 0.000263214111328125 seconds
+------------------------------
+Iteration 736:
+Minimum Cost: 1248
+Execution Time: 0.00026154518127441406 seconds
+------------------------------
+Iteration 737:
+Minimum Cost: 1248
+Execution Time: 0.0002639293670654297 seconds
+------------------------------
+Iteration 738:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 739:
+Minimum Cost: 1248
+Execution Time: 0.0002646446228027344 seconds
+------------------------------
+Iteration 740:
+Minimum Cost: 1248
+Execution Time: 0.0002636909484863281 seconds
+------------------------------
+Iteration 741:
+Minimum Cost: 1248
+Execution Time: 0.00026607513427734375 seconds
+------------------------------
+Iteration 742:
+Minimum Cost: 1248
+Execution Time: 0.00026297569274902344 seconds
+------------------------------
+Iteration 743:
+Minimum Cost: 1248
+Execution Time: 0.0002644062042236328 seconds
+------------------------------
+Iteration 744:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 745:
+Minimum Cost: 1248
+Execution Time: 0.00026416778564453125 seconds
+------------------------------
+Iteration 746:
+Minimum Cost: 1248
+Execution Time: 0.0002608299255371094 seconds
+------------------------------
+Iteration 747:
+Minimum Cost: 1248
+Execution Time: 0.00026035308837890625 seconds
+------------------------------
+Iteration 748:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 749:
+Minimum Cost: 1248
+Execution Time: 0.00026154518127441406 seconds
+------------------------------
+Iteration 750:
+Minimum Cost: 1248
+Execution Time: 0.000263214111328125 seconds
+------------------------------
+Iteration 751:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 752:
+Minimum Cost: 1248
+Execution Time: 0.0002636909484863281 seconds
+------------------------------
+Iteration 753:
+Minimum Cost: 1248
+Execution Time: 0.0002639293670654297 seconds
+------------------------------
+Iteration 754:
+Minimum Cost: 1248
+Execution Time: 0.00026345252990722656 seconds
+------------------------------
+Iteration 755:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 756:
+Minimum Cost: 1248
+Execution Time: 0.0002639293670654297 seconds
+------------------------------
+Iteration 757:
+Minimum Cost: 1248
+Execution Time: 0.0002627372741699219 seconds
+------------------------------
+Iteration 758:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 759:
+Minimum Cost: 1248
+Execution Time: 0.0002818107604980469 seconds
+------------------------------
+Iteration 760:
+Minimum Cost: 1248
+Execution Time: 0.0002601146697998047 seconds
+------------------------------
+Iteration 761:
+Minimum Cost: 1248
+Execution Time: 0.0002608299255371094 seconds
+------------------------------
+Iteration 762:
+Minimum Cost: 1248
+Execution Time: 0.0002586841583251953 seconds
+------------------------------
+Iteration 763:
+Minimum Cost: 1248
+Execution Time: 0.0002589225769042969 seconds
+------------------------------
+Iteration 764:
+Minimum Cost: 1248
+Execution Time: 0.00025916099548339844 seconds
+------------------------------
+Iteration 765:
+Minimum Cost: 1248
+Execution Time: 0.0002620220184326172 seconds
+------------------------------
+Iteration 766:
+Minimum Cost: 1248
+Execution Time: 0.0002586841583251953 seconds
+------------------------------
+Iteration 767:
+Minimum Cost: 1248
+Execution Time: 0.00026035308837890625 seconds
+------------------------------
+Iteration 768:
+Minimum Cost: 1248
+Execution Time: 0.00026106834411621094 seconds
+------------------------------
+Iteration 769:
+Minimum Cost: 1248
+Execution Time: 0.0002644062042236328 seconds
+------------------------------
+Iteration 770:
+Minimum Cost: 1248
+Execution Time: 0.0002589225769042969 seconds
+------------------------------
+Iteration 771:
+Minimum Cost: 1248
+Execution Time: 0.0002715587615966797 seconds
+------------------------------
+Iteration 772:
+Minimum Cost: 1248
+Execution Time: 0.0002598762512207031 seconds
+------------------------------
+Iteration 773:
+Minimum Cost: 1248
+Execution Time: 0.00025844573974609375 seconds
+------------------------------
+Iteration 774:
+Minimum Cost: 1248
+Execution Time: 0.0002562999725341797 seconds
+------------------------------
+Iteration 775:
+Minimum Cost: 1248
+Execution Time: 0.00025391578674316406 seconds
+------------------------------
+Iteration 776:
+Minimum Cost: 1248
+Execution Time: 0.00025916099548339844 seconds
+------------------------------
+Iteration 777:
+Minimum Cost: 1248
+Execution Time: 0.0003376007080078125 seconds
+------------------------------
+Iteration 778:
+Minimum Cost: 1248
+Execution Time: 0.0002620220184326172 seconds
+------------------------------
+Iteration 779:
+Minimum Cost: 1248
+Execution Time: 0.0002639293670654297 seconds
+------------------------------
+Iteration 780:
+Minimum Cost: 1248
+Execution Time: 0.0002608299255371094 seconds
+------------------------------
+Iteration 781:
+Minimum Cost: 1248
+Execution Time: 0.0002620220184326172 seconds
+------------------------------
+Iteration 782:
+Minimum Cost: 1248
+Execution Time: 0.0002624988555908203 seconds
+------------------------------
+Iteration 783:
+Minimum Cost: 1248
+Execution Time: 0.000270843505859375 seconds
+------------------------------
+Iteration 784:
+Minimum Cost: 1248
+Execution Time: 0.0002586841583251953 seconds
+------------------------------
+Iteration 785:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 786:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 787:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 788:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 789:
+Minimum Cost: 1248
+Execution Time: 0.00025916099548339844 seconds
+------------------------------
+Iteration 790:
+Minimum Cost: 1248
+Execution Time: 0.0002624988555908203 seconds
+------------------------------
+Iteration 791:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 792:
+Minimum Cost: 1248
+Execution Time: 0.0002658367156982422 seconds
+------------------------------
+Iteration 793:
+Minimum Cost: 1248
+Execution Time: 0.0002651214599609375 seconds
+------------------------------
+Iteration 794:
+Minimum Cost: 1248
+Execution Time: 0.0002639293670654297 seconds
+------------------------------
+Iteration 795:
+Minimum Cost: 1248
+Execution Time: 0.0002646446228027344 seconds
+------------------------------
+Iteration 796:
+Minimum Cost: 1248
+Execution Time: 0.00027108192443847656 seconds
+------------------------------
+Iteration 797:
+Minimum Cost: 1248
+Execution Time: 0.0002644062042236328 seconds
+------------------------------
+Iteration 798:
+Minimum Cost: 1248
+Execution Time: 0.00025916099548339844 seconds
+------------------------------
+Iteration 799:
+Minimum Cost: 1248
+Execution Time: 0.0002639293670654297 seconds
+------------------------------
+Iteration 800:
+Minimum Cost: 1248
+Execution Time: 0.0003006458282470703 seconds
+------------------------------
+Iteration 801:
+Minimum Cost: 1248
+Execution Time: 0.000263214111328125 seconds
+------------------------------
+Iteration 802:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 803:
+Minimum Cost: 1248
+Execution Time: 0.0002624988555908203 seconds
+------------------------------
+Iteration 804:
+Minimum Cost: 1248
+Execution Time: 0.0002608299255371094 seconds
+------------------------------
+Iteration 805:
+Minimum Cost: 1248
+Execution Time: 0.0002627372741699219 seconds
+------------------------------
+Iteration 806:
+Minimum Cost: 1248
+Execution Time: 0.00026297569274902344 seconds
+------------------------------
+Iteration 807:
+Minimum Cost: 1248
+Execution Time: 0.0002636909484863281 seconds
+------------------------------
+Iteration 808:
+Minimum Cost: 1248
+Execution Time: 0.0002663135528564453 seconds
+------------------------------
+Iteration 809:
+Minimum Cost: 1248
+Execution Time: 0.0002624988555908203 seconds
+------------------------------
+Iteration 810:
+Minimum Cost: 1248
+Execution Time: 0.0002644062042236328 seconds
+------------------------------
+Iteration 811:
+Minimum Cost: 1248
+Execution Time: 0.0002665519714355469 seconds
+------------------------------
+Iteration 812:
+Minimum Cost: 1248
+Execution Time: 0.0002620220184326172 seconds
+------------------------------
+Iteration 813:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 814:
+Minimum Cost: 1248
+Execution Time: 0.0002627372741699219 seconds
+------------------------------
+Iteration 815:
+Minimum Cost: 1248
+Execution Time: 0.0002582073211669922 seconds
+------------------------------
+Iteration 816:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 817:
+Minimum Cost: 1248
+Execution Time: 0.00025916099548339844 seconds
+------------------------------
+Iteration 818:
+Minimum Cost: 1248
+Execution Time: 0.0002601146697998047 seconds
+------------------------------
+Iteration 819:
+Minimum Cost: 1248
+Execution Time: 0.0002589225769042969 seconds
+------------------------------
+Iteration 820:
+Minimum Cost: 1248
+Execution Time: 0.0002655982971191406 seconds
+------------------------------
+Iteration 821:
+Minimum Cost: 1248
+Execution Time: 0.00026416778564453125 seconds
+------------------------------
+Iteration 822:
+Minimum Cost: 1248
+Execution Time: 0.00033926963806152344 seconds
+------------------------------
+Iteration 823:
+Minimum Cost: 1248
+Execution Time: 0.0002644062042236328 seconds
+------------------------------
+Iteration 824:
+Minimum Cost: 1248
+Execution Time: 0.0002682209014892578 seconds
+------------------------------
+Iteration 825:
+Minimum Cost: 1248
+Execution Time: 0.0002651214599609375 seconds
+------------------------------
+Iteration 826:
+Minimum Cost: 1248
+Execution Time: 0.0002655982971191406 seconds
+------------------------------
+Iteration 827:
+Minimum Cost: 1248
+Execution Time: 0.0002620220184326172 seconds
+------------------------------
+Iteration 828:
+Minimum Cost: 1248
+Execution Time: 0.00026679039001464844 seconds
+------------------------------
+Iteration 829:
+Minimum Cost: 1248
+Execution Time: 0.0002636909484863281 seconds
+------------------------------
+Iteration 830:
+Minimum Cost: 1248
+Execution Time: 0.0002655982971191406 seconds
+------------------------------
+Iteration 831:
+Minimum Cost: 1248
+Execution Time: 0.0002627372741699219 seconds
+------------------------------
+Iteration 832:
+Minimum Cost: 1248
+Execution Time: 0.0002837181091308594 seconds
+------------------------------
+Iteration 833:
+Minimum Cost: 1248
+Execution Time: 0.0002651214599609375 seconds
+------------------------------
+Iteration 834:
+Minimum Cost: 1248
+Execution Time: 0.00026702880859375 seconds
+------------------------------
+Iteration 835:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 836:
+Minimum Cost: 1248
+Execution Time: 0.0002644062042236328 seconds
+------------------------------
+Iteration 837:
+Minimum Cost: 1248
+Execution Time: 0.0002770423889160156 seconds
+------------------------------
+Iteration 838:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 839:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 840:
+Minimum Cost: 1248
+Execution Time: 0.0002598762512207031 seconds
+------------------------------
+Iteration 841:
+Minimum Cost: 1248
+Execution Time: 0.0002644062042236328 seconds
+------------------------------
+Iteration 842:
+Minimum Cost: 1248
+Execution Time: 0.0002651214599609375 seconds
+------------------------------
+Iteration 843:
+Minimum Cost: 1248
+Execution Time: 0.00026297569274902344 seconds
+------------------------------
+Iteration 844:
+Minimum Cost: 1248
+Execution Time: 0.0002741813659667969 seconds
+------------------------------
+Iteration 845:
+Minimum Cost: 1248
+Execution Time: 0.00026726722717285156 seconds
+------------------------------
+Iteration 846:
+Minimum Cost: 1248
+Execution Time: 0.0002651214599609375 seconds
+------------------------------
+Iteration 847:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 848:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 849:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 850:
+Minimum Cost: 1248
+Execution Time: 0.00026416778564453125 seconds
+------------------------------
+Iteration 851:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 852:
+Minimum Cost: 1248
+Execution Time: 0.0002620220184326172 seconds
+------------------------------
+Iteration 853:
+Minimum Cost: 1248
+Execution Time: 0.00026035308837890625 seconds
+------------------------------
+Iteration 854:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 855:
+Minimum Cost: 1248
+Execution Time: 0.00026607513427734375 seconds
+------------------------------
+Iteration 856:
+Minimum Cost: 1248
+Execution Time: 0.00026154518127441406 seconds
+------------------------------
+Iteration 857:
+Minimum Cost: 1248
+Execution Time: 0.0002956390380859375 seconds
+------------------------------
+Iteration 858:
+Minimum Cost: 1248
+Execution Time: 0.0002620220184326172 seconds
+------------------------------
+Iteration 859:
+Minimum Cost: 1248
+Execution Time: 0.00026297569274902344 seconds
+------------------------------
+Iteration 860:
+Minimum Cost: 1248
+Execution Time: 0.0002586841583251953 seconds
+------------------------------
+Iteration 861:
+Minimum Cost: 1248
+Execution Time: 0.00026869773864746094 seconds
+------------------------------
+Iteration 862:
+Minimum Cost: 1248
+Execution Time: 0.00026726722717285156 seconds
+------------------------------
+Iteration 863:
+Minimum Cost: 1248
+Execution Time: 0.0002694129943847656 seconds
+------------------------------
+Iteration 864:
+Minimum Cost: 1248
+Execution Time: 0.00025844573974609375 seconds
+------------------------------
+Iteration 865:
+Minimum Cost: 1248
+Execution Time: 0.0002636909484863281 seconds
+------------------------------
+Iteration 866:
+Minimum Cost: 1248
+Execution Time: 0.0002579689025878906 seconds
+------------------------------
+Iteration 867:
+Minimum Cost: 1248
+Execution Time: 0.00034737586975097656 seconds
+------------------------------
+Iteration 868:
+Minimum Cost: 1248
+Execution Time: 0.0002624988555908203 seconds
+------------------------------
+Iteration 869:
+Minimum Cost: 1248
+Execution Time: 0.0002624988555908203 seconds
+------------------------------
+Iteration 870:
+Minimum Cost: 1248
+Execution Time: 0.0002601146697998047 seconds
+------------------------------
+Iteration 871:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 872:
+Minimum Cost: 1248
+Execution Time: 0.0002589225769042969 seconds
+------------------------------
+Iteration 873:
+Minimum Cost: 1248
+Execution Time: 0.00025963783264160156 seconds
+------------------------------
+Iteration 874:
+Minimum Cost: 1248
+Execution Time: 0.00026345252990722656 seconds
+------------------------------
+Iteration 875:
+Minimum Cost: 1248
+Execution Time: 0.0002601146697998047 seconds
+------------------------------
+Iteration 876:
+Minimum Cost: 1248
+Execution Time: 0.00026035308837890625 seconds
+------------------------------
+Iteration 877:
+Minimum Cost: 1248
+Execution Time: 0.0002598762512207031 seconds
+------------------------------
+Iteration 878:
+Minimum Cost: 1248
+Execution Time: 0.00025963783264160156 seconds
+------------------------------
+Iteration 879:
+Minimum Cost: 1248
+Execution Time: 0.0002608299255371094 seconds
+------------------------------
+Iteration 880:
+Minimum Cost: 1248
+Execution Time: 0.0002989768981933594 seconds
+------------------------------
+Iteration 881:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 882:
+Minimum Cost: 1248
+Execution Time: 0.000274658203125 seconds
+------------------------------
+Iteration 883:
+Minimum Cost: 1248
+Execution Time: 0.0002741813659667969 seconds
+------------------------------
+Iteration 884:
+Minimum Cost: 1248
+Execution Time: 0.00027441978454589844 seconds
+------------------------------
+Iteration 885:
+Minimum Cost: 1248
+Execution Time: 0.00026726722717285156 seconds
+------------------------------
+Iteration 886:
+Minimum Cost: 1248
+Execution Time: 0.0002636909484863281 seconds
+------------------------------
+Iteration 887:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 888:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 889:
+Minimum Cost: 1248
+Execution Time: 0.000263214111328125 seconds
+------------------------------
+Iteration 890:
+Minimum Cost: 1248
+Execution Time: 0.0002608299255371094 seconds
+------------------------------
+Iteration 891:
+Minimum Cost: 1248
+Execution Time: 0.000263214111328125 seconds
+------------------------------
+Iteration 892:
+Minimum Cost: 1248
+Execution Time: 0.00026869773864746094 seconds
+------------------------------
+Iteration 893:
+Minimum Cost: 1248
+Execution Time: 0.00026106834411621094 seconds
+------------------------------
+Iteration 894:
+Minimum Cost: 1248
+Execution Time: 0.00025916099548339844 seconds
+------------------------------
+Iteration 895:
+Minimum Cost: 1248
+Execution Time: 0.0002636909484863281 seconds
+------------------------------
+Iteration 896:
+Minimum Cost: 1248
+Execution Time: 0.0002608299255371094 seconds
+------------------------------
+Iteration 897:
+Minimum Cost: 1248
+Execution Time: 0.00026106834411621094 seconds
+------------------------------
+Iteration 898:
+Minimum Cost: 1248
+Execution Time: 0.00025916099548339844 seconds
+------------------------------
+Iteration 899:
+Minimum Cost: 1248
+Execution Time: 0.0002601146697998047 seconds
+------------------------------
+Iteration 900:
+Minimum Cost: 1248
+Execution Time: 0.0002639293670654297 seconds
+------------------------------
+Iteration 901:
+Minimum Cost: 1248
+Execution Time: 0.00026488304138183594 seconds
+------------------------------
+Iteration 902:
+Minimum Cost: 1248
+Execution Time: 0.00026416778564453125 seconds
+------------------------------
+Iteration 903:
+Minimum Cost: 1248
+Execution Time: 0.0002682209014892578 seconds
+------------------------------
+Iteration 904:
+Minimum Cost: 1248
+Execution Time: 0.0002808570861816406 seconds
+------------------------------
+Iteration 905:
+Minimum Cost: 1248
+Execution Time: 0.0002720355987548828 seconds
+------------------------------
+Iteration 906:
+Minimum Cost: 1248
+Execution Time: 0.00027251243591308594 seconds
+------------------------------
+Iteration 907:
+Minimum Cost: 1248
+Execution Time: 0.0002624988555908203 seconds
+------------------------------
+Iteration 908:
+Minimum Cost: 1248
+Execution Time: 0.00026488304138183594 seconds
+------------------------------
+Iteration 909:
+Minimum Cost: 1248
+Execution Time: 0.0002601146697998047 seconds
+------------------------------
+Iteration 910:
+Minimum Cost: 1248
+Execution Time: 0.0002624988555908203 seconds
+------------------------------
+Iteration 911:
+Minimum Cost: 1248
+Execution Time: 0.00025916099548339844 seconds
+------------------------------
+Iteration 912:
+Minimum Cost: 1248
+Execution Time: 0.000339508056640625 seconds
+------------------------------
+Iteration 913:
+Minimum Cost: 1248
+Execution Time: 0.0002589225769042969 seconds
+------------------------------
+Iteration 914:
+Minimum Cost: 1248
+Execution Time: 0.0002644062042236328 seconds
+------------------------------
+Iteration 915:
+Minimum Cost: 1248
+Execution Time: 0.00026297569274902344 seconds
+------------------------------
+Iteration 916:
+Minimum Cost: 1248
+Execution Time: 0.0002684593200683594 seconds
+------------------------------
+Iteration 917:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 918:
+Minimum Cost: 1248
+Execution Time: 0.0002624988555908203 seconds
+------------------------------
+Iteration 919:
+Minimum Cost: 1248
+Execution Time: 0.00026535987854003906 seconds
+------------------------------
+Iteration 920:
+Minimum Cost: 1248
+Execution Time: 0.00026607513427734375 seconds
+------------------------------
+Iteration 921:
+Minimum Cost: 1248
+Execution Time: 0.0002636909484863281 seconds
+------------------------------
+Iteration 922:
+Minimum Cost: 1248
+Execution Time: 0.0002646446228027344 seconds
+------------------------------
+Iteration 923:
+Minimum Cost: 1248
+Execution Time: 0.0002636909484863281 seconds
+------------------------------
+Iteration 924:
+Minimum Cost: 1248
+Execution Time: 0.0002627372741699219 seconds
+------------------------------
+Iteration 925:
+Minimum Cost: 1248
+Execution Time: 0.0002646446228027344 seconds
+------------------------------
+Iteration 926:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 927:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 928:
+Minimum Cost: 1248
+Execution Time: 0.00026535987854003906 seconds
+------------------------------
+Iteration 929:
+Minimum Cost: 1248
+Execution Time: 0.0002777576446533203 seconds
+------------------------------
+Iteration 930:
+Minimum Cost: 1248
+Execution Time: 0.0002627372741699219 seconds
+------------------------------
+Iteration 931:
+Minimum Cost: 1248
+Execution Time: 0.00027108192443847656 seconds
+------------------------------
+Iteration 932:
+Minimum Cost: 1248
+Execution Time: 0.0002651214599609375 seconds
+------------------------------
+Iteration 933:
+Minimum Cost: 1248
+Execution Time: 0.0002639293670654297 seconds
+------------------------------
+Iteration 934:
+Minimum Cost: 1248
+Execution Time: 0.00026154518127441406 seconds
+------------------------------
+Iteration 935:
+Minimum Cost: 1248
+Execution Time: 0.00026345252990722656 seconds
+------------------------------
+Iteration 936:
+Minimum Cost: 1248
+Execution Time: 0.00026416778564453125 seconds
+------------------------------
+Iteration 937:
+Minimum Cost: 1248
+Execution Time: 0.00026297569274902344 seconds
+------------------------------
+Iteration 938:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 939:
+Minimum Cost: 1248
+Execution Time: 0.0002608299255371094 seconds
+------------------------------
+Iteration 940:
+Minimum Cost: 1248
+Execution Time: 0.00026154518127441406 seconds
+------------------------------
+Iteration 941:
+Minimum Cost: 1248
+Execution Time: 0.00026679039001464844 seconds
+------------------------------
+Iteration 942:
+Minimum Cost: 1248
+Execution Time: 0.0002620220184326172 seconds
+------------------------------
+Iteration 943:
+Minimum Cost: 1248
+Execution Time: 0.0002620220184326172 seconds
+------------------------------
+Iteration 944:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 945:
+Minimum Cost: 1248
+Execution Time: 0.00026297569274902344 seconds
+------------------------------
+Iteration 946:
+Minimum Cost: 1248
+Execution Time: 0.00026035308837890625 seconds
+------------------------------
+Iteration 947:
+Minimum Cost: 1248
+Execution Time: 0.0002570152282714844 seconds
+------------------------------
+Iteration 948:
+Minimum Cost: 1248
+Execution Time: 0.00026154518127441406 seconds
+------------------------------
+Iteration 949:
+Minimum Cost: 1248
+Execution Time: 0.00026345252990722656 seconds
+------------------------------
+Iteration 950:
+Minimum Cost: 1248
+Execution Time: 0.0002579689025878906 seconds
+------------------------------
+Iteration 951:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 952:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 953:
+Minimum Cost: 1248
+Execution Time: 0.00025773048400878906 seconds
+------------------------------
+Iteration 954:
+Minimum Cost: 1248
+Execution Time: 0.00025916099548339844 seconds
+------------------------------
+Iteration 955:
+Minimum Cost: 1248
+Execution Time: 0.00025963783264160156 seconds
+------------------------------
+Iteration 956:
+Minimum Cost: 1248
+Execution Time: 0.00026035308837890625 seconds
+------------------------------
+Iteration 957:
+Minimum Cost: 1248
+Execution Time: 0.00033545494079589844 seconds
+------------------------------
+Iteration 958:
+Minimum Cost: 1248
+Execution Time: 0.0002593994140625 seconds
+------------------------------
+Iteration 959:
+Minimum Cost: 1248
+Execution Time: 0.0002624988555908203 seconds
+------------------------------
+Iteration 960:
+Minimum Cost: 1248
+Execution Time: 0.0002617835998535156 seconds
+------------------------------
+Iteration 961:
+Minimum Cost: 1248
+Execution Time: 0.0002598762512207031 seconds
+------------------------------
+Iteration 962:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 963:
+Minimum Cost: 1248
+Execution Time: 0.00025773048400878906 seconds
+------------------------------
+Iteration 964:
+Minimum Cost: 1248
+Execution Time: 0.00026035308837890625 seconds
+------------------------------
+Iteration 965:
+Minimum Cost: 1248
+Execution Time: 0.00026106834411621094 seconds
+------------------------------
+Iteration 966:
+Minimum Cost: 1248
+Execution Time: 0.00026702880859375 seconds
+------------------------------
+Iteration 967:
+Minimum Cost: 1248
+Execution Time: 0.00026154518127441406 seconds
+------------------------------
+Iteration 968:
+Minimum Cost: 1248
+Execution Time: 0.0002570152282714844 seconds
+------------------------------
+Iteration 969:
+Minimum Cost: 1248
+Execution Time: 0.00026035308837890625 seconds
+------------------------------
+Iteration 970:
+Minimum Cost: 1248
+Execution Time: 0.00025963783264160156 seconds
+------------------------------
+Iteration 971:
+Minimum Cost: 1248
+Execution Time: 0.0002620220184326172 seconds
+------------------------------
+Iteration 972:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 973:
+Minimum Cost: 1248
+Execution Time: 0.00026416778564453125 seconds
+------------------------------
+Iteration 974:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 975:
+Minimum Cost: 1248
+Execution Time: 0.00026702880859375 seconds
+------------------------------
+Iteration 976:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 977:
+Minimum Cost: 1248
+Execution Time: 0.0002639293670654297 seconds
+------------------------------
+Iteration 978:
+Minimum Cost: 1248
+Execution Time: 0.0002644062042236328 seconds
+------------------------------
+Iteration 979:
+Minimum Cost: 1248
+Execution Time: 0.0002665519714355469 seconds
+------------------------------
+Iteration 980:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 981:
+Minimum Cost: 1248
+Execution Time: 0.0002636909484863281 seconds
+------------------------------
+Iteration 982:
+Minimum Cost: 1248
+Execution Time: 0.00026226043701171875 seconds
+------------------------------
+Iteration 983:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 984:
+Minimum Cost: 1248
+Execution Time: 0.00025916099548339844 seconds
+------------------------------
+Iteration 985:
+Minimum Cost: 1248
+Execution Time: 0.0002620220184326172 seconds
+------------------------------
+Iteration 986:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 987:
+Minimum Cost: 1248
+Execution Time: 0.0002589225769042969 seconds
+------------------------------
+Iteration 988:
+Minimum Cost: 1248
+Execution Time: 0.0002601146697998047 seconds
+------------------------------
+Iteration 989:
+Minimum Cost: 1248
+Execution Time: 0.00026035308837890625 seconds
+------------------------------
+Iteration 990:
+Minimum Cost: 1248
+Execution Time: 0.00026345252990722656 seconds
+------------------------------
+Iteration 991:
+Minimum Cost: 1248
+Execution Time: 0.0002613067626953125 seconds
+------------------------------
+Iteration 992:
+Minimum Cost: 1248
+Execution Time: 0.0002598762512207031 seconds
+------------------------------
+Iteration 993:
+Minimum Cost: 1248
+Execution Time: 0.0002624988555908203 seconds
+------------------------------
+Iteration 994:
+Minimum Cost: 1248
+Execution Time: 0.000263214111328125 seconds
+------------------------------
+Iteration 995:
+Minimum Cost: 1248
+Execution Time: 0.00025963783264160156 seconds
+------------------------------
+Iteration 996:
+Minimum Cost: 1248
+Execution Time: 0.0002582073211669922 seconds
+------------------------------
+Iteration 997:
+Minimum Cost: 1248
+Execution Time: 0.0002601146697998047 seconds
+------------------------------
+Iteration 998:
+Minimum Cost: 1248
+Execution Time: 0.00025844573974609375 seconds
+------------------------------
+Iteration 999:
+Minimum Cost: 1248
+Execution Time: 0.0002605915069580078 seconds
+------------------------------
+Iteration 1000:
+Minimum Cost: 1248
+Execution Time: 0.0002627372741699219 seconds
+------------------------------
+
+Average Execution Time across all iterations: 0.0003015625476837158 seconds
