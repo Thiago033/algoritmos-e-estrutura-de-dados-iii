@@ -3,6 +3,54 @@ import os
 import sys
 import time
 
+# Function to solve the Traveling Salesman Problem using Brute Force algorithm
+def tsp_brute_force(graph):
+    # Get the number of nodes in the graph
+    n = len(graph)
+    
+    # Create a set of all nodes in the graph
+    all_nodes = set(range(n))
+    
+    # Define the starting node for the TSP
+    start_node = 0
+
+    # Recursive function to explore all possible paths
+    def brute_force_rec(path):
+        nonlocal best_path, min_cost
+
+        # If the current path includes all nodes
+        if len(path) == n:
+            # Calculate the cost of the complete path
+            cost = sum(graph[path[i]][path[i + 1]] for i in range(n - 1)) + graph[path[-1]][start_node]
+            
+            # Update the best path and minimum cost if the current path is better
+            if cost < min_cost:
+                min_cost = cost
+                best_path = path + [start_node]
+
+        # Recursively explore paths by adding one node at a time
+        for node in all_nodes - set(path):
+            brute_force_rec(path + [node])
+
+    # Initialize variables to store the best path, minimum cost, and execution time
+    best_path = []
+    min_cost = sys.maxsize  # Assume an initial high cost
+    
+    # Record the start time for execution time measurement
+    start_time = time.time()
+
+    # Start the Brute Force algorithm with the initial path containing only the starting node
+    brute_force_rec([start_node])
+
+    # Record the end time for execution time measurement
+    end_time = time.time()
+    
+    # Calculate the execution time
+    execution_time = end_time - start_time
+
+    # Return the best path, minimum cost, and execution time
+    return best_path, min_cost, execution_time
+
 # Function to read a matrix from a file
 def read_matrix_from_file(file_path):
     with open(file_path, 'r') as file:
@@ -10,41 +58,6 @@ def read_matrix_from_file(file_path):
         # Converting lines from the file to a 2D array (graph)
         graph = [list(map(int, line.split())) for line in lines]
     return graph
-
-# Function to solve the Traveling Salesman Problem using Brute Force algorithm
-def tsp_brute_force(graph):
-    n = len(graph)
-    all_nodes = set(range(n))
-    start_node = 0
-
-    # Recursive function for the Brute Force algorithm
-    def brute_force_rec(path):
-        nonlocal best_path, min_cost
-
-        if len(path) == n:
-            # Calculate the cost of the complete path
-            cost = sum(graph[path[i]][path[i + 1]] for i in range(n - 1)) + graph[path[-1]][start_node]
-            if cost < min_cost:
-                min_cost = cost
-                best_path = path + [start_node]
-
-        for node in all_nodes - set(path):
-            brute_force_rec(path + [node])
-
-    best_path = []
-    min_cost = sys.maxsize
-
-    # Recording the start time for execution time measurement
-    start_time = time.time()
-
-    # Start the Brute Force algorithm with the initial path
-    brute_force_rec([start_node])
-
-    # Recording the end time for execution time measurement
-    end_time = time.time()
-    execution_time = end_time - start_time
-
-    return best_path, min_cost, execution_time
 
 # Function to let the user choose a TSP file
 def choose_tsp_file():
@@ -68,59 +81,55 @@ def choose_tsp_file():
 
 # Number of iterations
 num_iterations = 1
+
 total_execution_time = 0
-results_file_name = 0
+results_file_name = ""
 
 # Get the chosen file name
 file_name = choose_tsp_file()
 
-# Criar a pasta de resultados se não existir
-resultados_folder = os.path.join(os.path.dirname(__file__), 'resultados_exato')
-os.makedirs(resultados_folder, exist_ok=True)
+# Create the results folder if it does not exist
+results_folder = os.path.join(os.path.dirname(__file__), 'exact_results')
+os.makedirs(results_folder, exist_ok=True)
 
-# Loop para iterações
+# Loop for iterations
 for iteration in range(num_iterations):
-    # Assumindo que o script está em uma pasta em um certo nível
     current_folder = os.path.dirname(__file__)
-
-    # Navegando para outra pasta em um nível diferente
     target_folder = os.path.join(current_folder, '..', 'adjacency-matrices')
-
-    # Obtendo o caminho absoluto da pasta alvo
     absolute_path = os.path.abspath(target_folder)
 
-    # Criando o caminho absoluto para o arquivo de texto
+    # Creating the absolute path for the text file
     file_path = os.path.join(absolute_path, file_name)
 
-    # Lendo a matriz do arquivo escolhido
+    # Reading the matrix from the chosen file
     graph = read_matrix_from_file(file_path)
 
-    # Aplicando o algoritmo Brute Force para resolver o TSP
+    # Applying the Brute Force algorithm to solve the TSP
     result_path, result_cost, execution_time = tsp_brute_force(graph)
 
-    # Imprimindo os resultados
-    print(f"Iteração {iteration + 1} - {file_name}:")
-    print("Custo Mínimo:", result_cost)
-    print("Tempo de Execução:", execution_time, "segundos")
+    # Printing the results
+    print(f"Iteration {iteration + 1} - {file_name}:")
+    print("Minimum Cost:", result_cost)
+    print("Execution Time:", execution_time, "seconds")
     print("-" * 30)
     
-    # Acumulando o tempo total de execução
+    # Accumulating the total execution time
     total_execution_time += execution_time
 
-    # Escrevendo os resultados em um arquivo de texto para cada instância do TSP
-    output_file_path = os.path.join(resultados_folder, f"results_exato_{file_name[:-4]}.log")
+    # Writing the results to a text file for each instance of the TSP
+    output_file_path = os.path.join(results_folder, f"exact_results_{file_name[:-4]}.log")
     results_file_name = output_file_path
     
     with open(output_file_path, 'a') as output_file:
-        output_file.write(f"Iteração {iteration + 1}:\n")
-        output_file.write(f"Custo Mínimo: {result_cost}\n")
-        output_file.write(f"Tempo de Execução: {execution_time} segundos\n")
+        output_file.write(f"Iteration {iteration + 1}:\n")
+        output_file.write(f"Minimum Cost: {result_cost}\n")
+        output_file.write(f"Execution Time: {execution_time} seconds\n")
         output_file.write("-" * 30 + "\n")
 
-# Calcular o tempo de execução médio
+# Calculate the average execution time
 average_execution_time = total_execution_time / num_iterations
 
-# Imprimir e anexar o tempo de execução médio ao arquivo de resultados
-print(f"\nTempo de Execução Médio em todas as iterações: {average_execution_time} segundos")
+# Print and append the average execution time to the results file
+print(f"\nAverage Execution Time across all iterations: {average_execution_time} seconds")
 with open(results_file_name, 'a') as output_file:
-    output_file.write(f"\nTempo de Execução Médio em todas as iterações: {average_execution_time} segundos\n")
+    output_file.write(f"\nAverage Execution Time across all iterations: {average_execution_time} seconds\n")
