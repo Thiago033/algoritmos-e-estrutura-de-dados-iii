@@ -1,5 +1,4 @@
 # Importing necessary libraries
-import numpy as np
 import os
 import sys
 import time
@@ -248,9 +247,9 @@ def remove_edge_from_matchedMST(MatchedMST, v1, v2):
 def read_matrix_from_file(file_path):
     with open(file_path, 'r') as file:
         lines = file.readlines()
-        # Converting lines from the file to a 2D array (matrix)
-        matrix = [list(map(int, line.split())) for line in lines]
-    return np.array(matrix)
+        # Converting lines from the file to a 2D array (graph)
+        graph = [list(map(int, line.split())) for line in lines]
+    return graph
 
 # Function to let the user choose a TSP file
 def choose_tsp_file():
