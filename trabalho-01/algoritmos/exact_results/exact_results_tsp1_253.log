@@ -1,0 +1,18 @@
+Iteration 1:
+Minimum Cost: 253
+Execution Time: 11.902171611785889 seconds
+------------------------------
+Iteration 2:
+Minimum Cost: 253
+Execution Time: 11.955031394958496 seconds
+------------------------------
+Iteration 3:
+Minimum Cost: 253
+Execution Time: 12.17347764968872 seconds
+------------------------------
+Iteration 1:
+Minimum Cost: 253
+Execution Time: 15.146498680114746 seconds
+------------------------------
+
+Average Execution Time across all iterations: 15.146498680114746 seconds
